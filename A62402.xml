@@ -1,0 +1,1406 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true art of angling, or, The best and speediest way of taking all sorts of fresh-water fish with the worm, fly paste, and other baits, in their proper seasons how to know the haunts of fish, and angle for them in all waters and weathers, at the top, middle, and bottom, baiting of the ground, and night baits, oyls, and oyntments, baits natural and atificial : the several ways of angling, to make oyl of asper, and many rare secrets never before made publick, containing the whole body of angling, and mystery of a compleat angler / by J.S., gent., an brother of the angle.</title>
+            <author>J. S. (John Smith)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 85 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62402</idno>
+            <idno type="STC">Wing S96</idno>
+            <idno type="STC">ESTC R32405</idno>
+            <idno type="EEBO-CITATION">12673396</idno>
+            <idno type="OCLC">ocm 12673396</idno>
+            <idno type="VID">65509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65509)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1535:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true art of angling, or, The best and speediest way of taking all sorts of fresh-water fish with the worm, fly paste, and other baits, in their proper seasons how to know the haunts of fish, and angle for them in all waters and weathers, at the top, middle, and bottom, baiting of the ground, and night baits, oyls, and oyntments, baits natural and atificial : the several ways of angling, to make oyl of asper, and many rare secrets never before made publick, containing the whole body of angling, and mystery of a compleat angler / by J.S., gent., an brother of the angle.</title>
+                  <author>J. S. (John Smith)</author>
+               </titleStmt>
+               <extent>[6], 160 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Conyers ... and John Sprint ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Third to eighth editions (1704-1730?) have title: The compleat fisher ...  ninth to eleventh editions (1740-1750?): The complete fisher ...  twelfth edition (1770): The true art of angling ...</note>
+                  <note>Illustrated frontispiece.</note>
+                  <note>Imperfect: pages cropped, stained and tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fishing --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65509:1" rendition="simple:additions"/>
+            <figure>
+               <figDesc>angler</figDesc>
+            </figure>
+            <pb facs="tcp:65509:1" rendition="simple:additions"/>
+            <p>The True Art of Angling: OR, The Beſt and Speedieſt way of Taking all ſorts of Freſh<g ref="char:EOLhyphen"/>Water Fiſh with the Worm, Fly, Paſte, and other Baits, in their proper ſeaſons; how to know the Haunts of Fiſh, and Angle for them in all Waters and Weathers, at the Top, Middle, and Bottom, Baiting of the Ground, and Night Baits, Oyls, and Oynt<g ref="char:EOLhyphen"/>ments, Baits Natural and Ar<g ref="char:EOLhyphen"/>tificial: The ſeveral ways of Angling; To make Oyl of Aſper, and many rare Se<g ref="char:EOLhyphen"/>crets never before made pub<g ref="char:EOLhyphen"/>lick; containing the whole Body of Angling, and My<g ref="char:EOLhyphen"/>ſtery of a Compleat Angler.</p>
+            <p>By <hi>J. S.</hi> Gent. A Brother of the Angle.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Conyers</hi> at the <hi>Golden Ring,</hi> and <hi>John Sprint</hi> at the <hi>Bell</hi> in <hi>Little Bri<g ref="char:EOLhyphen"/>tain.</hi> 1696. Prince bound 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65509:2" rendition="simple:additions"/>
+            <pb facs="tcp:65509:2"/>
+            <head>TO THE LOVERS OF Angling.</head>
+            <p>THough you ſee this Book but ſmall, yet think not the matter is ſo it contains, for upon my Word, Brother Angler, you will find in it more than you are aware of, or could reaſonably expect.</p>
+            <pb facs="tcp:65509:3"/>
+            <p>It is ſtored with ſuch variety of choice Inſtructi<g ref="char:EOLhyphen"/>ons, that I am bold to ſay, there are none of what Vo<g ref="char:EOLhyphen"/>lumn ſoever, that in a di<g ref="char:EOLhyphen"/>rect and eaſie method, can ſhew you any thing like it. It comprehends whatever they pretend to, and many ſecrets that never before appeared in Print; nor is any thing omitted, that I could upon mature delibera<g ref="char:EOLhyphen"/>tion, reaſonably conceive might tend to pleaſure and profit, by well obſerving the Rules I have laid down, you need not be endowed with ſo large a ſtock of Patience, as ſome tell you
+<pb facs="tcp:65509:3"/>an Angler ought to be poſ<g ref="char:EOLhyphen"/>ſeſſed withal, but ſoon fur<g ref="char:EOLhyphen"/>niſhed with a Diſh of Fiſh to your Mind, you may change yonr Recreation, and not make this Irk ſome to you, by a tedious poring on the Banks as many do, and for all that, return fretting at their ſlender ſucceſs.</p>
+            <p>But by the way let me tell you, Angling of all other Recreations, is the moſt Innocent, Contempla<g ref="char:EOLhyphen"/>tive, and leaſt Chargeable, it affords Advantage with<g ref="char:EOLhyphen"/>out coſt, and Pleaſure with<g ref="char:EOLhyphen"/>out toil or ſweating, it much contributes to a
+<pb facs="tcp:65509:4"/>healthful conſtitution of Body, by the pleaſant Airs that breathe from whole<g ref="char:EOLhyphen"/>ſome Waters, to refreſh and enliven Nature, and indeed has been held in high eſteem, by Wiſe Men of all Ages; and therefore I re<g ref="char:EOLhyphen"/>commend it to you, as the beſt winder-off of your leaſure hours, wiſhing you Moderation in it, and Good Succeſs. <hi>Vale.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:65509:4"/>
+            <head>Inſtructions for rightly pre<g ref="char:EOLhyphen"/>paring Angling Tackle, as Rods, Lines, Hooks, Floats, Plummets, and other matters required to accompliſh the An<g ref="char:EOLhyphen"/>gler, <hi>&amp;c.</hi>
+            </head>
+            <p>IF we conſider Recreations aright, they are intended to refreſh the Mind, and un<g ref="char:EOLhyphen"/>bend our Cares after Toil, La<g ref="char:EOLhyphen"/>bour or Study, and therefore ought not to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e purſued with too much fatigue, leaſt they appear more like a buſineſs, than pleaſure, and ſo in the end become pall'd and tireſome; but when leaſure hours will admit, they are very conveni<g ref="char:EOLhyphen"/>ent
+<pb n="2" facs="tcp:65509:5"/>to ſweeten the Cares of Life. Among theſe, Angling is held by all the Ingenious, the moſt diverting for thoſe that are contemplative, and though it require much Inge<g ref="char:EOLhyphen"/>nuity, yet is it performed with little Labour, yet as in all other curious matters, Rules are neceſ<g ref="char:EOLhyphen"/>ſary to be obſerved in it, and to that end I ſhall, as Expe<g ref="char:EOLhyphen"/>rience, the beſt Maſter teaches, proceed Gradually, to lay down ſuch, as perhaps the greateſt part of Mankind are Ignorant of, and therefore according to the method I have choſen, it will be neceſſary firſt to ſpeak of Tackle, without the Know<g ref="char:EOLhyphen"/>ledge of which, the Angler muſt be like one that under<g ref="char:EOLhyphen"/>takes buſineſs, and wants Tools to accompliſh it.</p>
+            <p>As for your Tops, Haſle or Yew Switches, gathered about
+<pb n="3" facs="tcp:65509:5"/>the middle of <hi>December,</hi> when moſt free from Sap, are ac<g ref="char:EOLhyphen"/>counted very good, though the two following, or preceding Months, may reaſonably ſerve, run them over a gentle heat, to make them tough; let the Stocks and Tops be taper, ſmooth and ſtrait, the pieces of each Rod ſuitable in an ex<g ref="char:EOLhyphen"/>act ſymetry, free from knots, or elſe they will be deficient in Caſting, and never Strike well, nor be truly pliable, but at a knot be apt to break and ſpoil your ſport: To keep them in good order, bind them cloſe to a ſtrait Pole, and ſo let them continue long, that they may not warp, faſten a Loop of Silk or Horſe hair, at the end of it, with Shoemakers Thread, that the Line may have play on it, and though many uſe Silk Lines, yet I prefer the Horſe Hair as
+<pb n="4" facs="tcp:65509:6"/>the beſt, and in twiſting or breading, obſerve an Exact Evenneſs, for one Hair being ſhorter than the reſt in a Link, the whole ſtreſs will lye on that, and it breaking, renders the reſt much the weaker, and of<g ref="char:EOLhyphen"/>ten a good Fiſh is loſt for want of this obſervance; make your knots ſure, that they ſlip not; as for the colour of your Hair, it being free from Nits or Goutineſs, which ſome call Botches, the pale, wateriſh co<g ref="char:EOLhyphen"/>lour is the beſt to deceive in a Clear Stream; but in Whey<g ref="char:EOLhyphen"/>iſh or Muddy Water, you may chuſe indifferently a Line, for the Ground Angle need not be ſo ſtrong as that you intend for your Rod at the Artificial Fly, abating in the latter a Hair from top to bottom, in every Link from one or two, to ſix or eight, or more.</p>
+            <pb n="5" facs="tcp:65509:6"/>
+            <p>As for the Hook, it muſt be long in the Shank, and of a compaſs ſomewhat inclining to roundneſs, for if the Shank be ſtrait, the point will ſtand out<g ref="char:EOLhyphen"/>ward, faſten the Hair on the in<g ref="char:EOLhyphen"/>ſide of the Shank, to preſerve it from fretting, whether you Angle at top or bottom, pro<g ref="char:EOLhyphen"/>portion your Hook for ſtrength and compaſs, to the number of hairs you Angle with next it, neither uſe great Hooks to ſmall Baits, nor great Baits to little ones, <hi>Barbel</hi> and <hi>Chub</hi> muſt have large Hooks, <hi>Carps, Eels, Tench, Pearch, Breams,</hi> thoſe of a much leſſer ſize, and Expe<g ref="char:EOLhyphen"/>rience teaches, <hi>Trouts</hi> in clear Water, <hi>Grayling, Smel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Roach<g ref="char:EOLhyphen"/>es Salmon Smel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Dace, Ruff</hi> and <hi>Gudgeons</hi> are ſooneſt taken with ſmall Hooks, though ma<g ref="char:EOLhyphen"/>ny uſe great ones for the <hi>Trout,</hi> eſpecially in Muddy Water,
+<pb n="6" facs="tcp:65509:7"/>yet the <hi>Salmon</hi> muſt be Angled for with a Hook, according to his ſtrength; Hooks for Dub<g ref="char:EOLhyphen"/>flies ſhould be generally ſmall, and ſo for Cod-baits, but larger for Worms, yet ſuch as ſome uſe for the latter, do not gene<g ref="char:EOLhyphen"/>rally take in Clear Water: When you whip your Hook, which is ſtiled Arming, do it with Silk lightly rubbed with Shoerhakers Wax, twiſting it round on the lower part of the Line, almoſt to the bent of the Hook on the inſide, having firſt ſmoothed the Shank of the Hook with a Whetſtone, and for Worms let it be red coloured Silk, but for Cod-bait, Paſts, <hi>&amp;c.</hi> white.</p>
+            <p>Floats ſhould be of Cork for River Fiſhing, but for Ponds' Meers, and other ſtanding Wa<g ref="char:EOLhyphen"/>ters, Quill and Pens will do very well, and in very ſlow Rivers, eſpecially when you are to
+<pb n="7" facs="tcp:65509:7"/>Angle near the Top with ten<g ref="char:EOLhyphen"/>der Baits or Paſte; as for your Cork, let it be the fineſt, free from holes or flaws, bore it through with a ſmall hot Iron, thruſt in a quill ſizeable, ſhapt with a Knife to the likeneſs of a Pyramid, Egg, or Pear, a proportionable bigneſs, and with a Pumice-ſtone finely ſmooth it, run your Line through the Quill, and wedge it in with the uppermoſt hard part of the Quill, the ſmaller end of the Cork being towards the Hook, and the bigger to<g ref="char:EOLhyphen"/>wards the Rod, let the Cork be ſo poiſed with Lead on the Line, that the Quill ſtanding directly upright, the leaſt Bite or Nibble may ſink the Cork.</p>
+            <p>To Lead your Line, do it with a Shot cloven, and then cloſed exactly on it, put not above
+<pb n="8" facs="tcp:65509:8"/>two of theſe on any Line, and that an Inch and a half, or two Inches diſtance from each other, and the lowermoſt plumb, ſe<g ref="char:EOLhyphen"/>ven or eight Inches from the Hook, but for a running Line, either in Clear or Muddy Wa<g ref="char:EOLhyphen"/>ter, nine or ten Inches, and if you in a River find a Sandy bot<g ref="char:EOLhyphen"/>tom, it being full of Wood with few Stones, ſhape your Lead a Diamond faſhion, or to that of a Barley Corn or Oval, bring the ends very cloſe and ſmooth to the Line, yet make it black, for the brightneſs will ſcare the Fiſh.</p>
+            <p>It is very neceſſary to have a landing Net and Hook, or you may loſe many a large <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh, by breaking line or hold, before you can land him. The Net you may faſten to the end of a long manageable Pole: As for the Hook it muſt be a large one
+<pb n="9" facs="tcp:65509:8"/>with a Screw, to ſcrew into a Socket at the end of a Pole, and when your Fiſh is entangled, clap it into the Mouth of it, and draw it to Land, but this latter is chiefly for <hi>Barbel, Sal<g ref="char:EOLhyphen"/>mon,</hi> and other ſtrong Fiſh.</p>
+            <p>As for your Pannier, let it be of light Oſier twigs, neatly Wo<g ref="char:EOLhyphen"/>ven and Worked up, and to be the more compleatly prepared on all occaſions, have in a rea<g ref="char:EOLhyphen"/>dineſs divers ſorts of Hooks, Lines, Links ready twiſted Hair and Silk of ſeveral colours, ſmall ſtrong Thread, Lead Plummets, Shoemakers Wax, and Floats of divers ſizes; Line Caſes, Whet-ſtone, Pen knife, Worm bags, Boxes, Baits, Sci<g ref="char:EOLhyphen"/>ſars. And thus having pretty well accoutred my Angler with Tackle, it will next be neceſſa<g ref="char:EOLhyphen"/>ry to know what Baits he muſt
+<pb n="10" facs="tcp:65509:9"/>uſe, for on it mainly depends ſucceſs or fruſtration.</p>
+            <div type="part">
+               <head>Baits bred on Trees, Herbs, Plants, Worms, their ſeaſon, and what Fiſh take them, when and how, <hi>&amp;c.</hi>
+               </head>
+               <p>BAits for the ſundry kinds of Fiſh are numerous, and many of them muſt be conſider<g ref="char:EOLhyphen"/>ed in their proper Seaſon, or they are of no value; as for Earth-worms, they are accoun<g ref="char:EOLhyphen"/>ted a general Bait, they and Gentles are always in Seaſon, Earth-Bobs only from <hi>Martle<g ref="char:EOLhyphen"/>mas,</hi> till the latter end of <hi>April,</hi> Cowturd Bobs from thence till <hi>Michaelmas,</hi> Oak worms, Worms bred of Trees, Plants and Herbs,
+<pb n="11" facs="tcp:65509:9"/>Palmers, or Wool-beds, Flies Caterpillars, Cod baits, <hi>&amp;c.</hi> all the Summer, and here it is requiſite to note, that when one ſort of Bait comes in Seaſon, the other are not uſeleſs. If you are to Angle in Clear Wa<g ref="char:EOLhyphen"/>ter at the ground, it will be ne<g ref="char:EOLhyphen"/>ceſſary to have with you Cod<g ref="char:EOLhyphen"/>baits, Worms, Gentles and Bobs, to try which will beſt take, but in Muddy Water for <hi>Trouts,</hi> with the running Line, you are required for better ſport, to have Tag tailes, Gilt-tails, Brand<g ref="char:EOLhyphen"/>lings, Meadow-worms, ſome ſcowered in Moſs and Water, others directed with a Riddle, and ſome again with heavy Earth, for almoſt at the ſame time they will take them, ſome one way done, and ſome ano<g ref="char:EOLhyphen"/>ther, as Experience has often demonſtrated.</p>
+               <pb n="12" facs="tcp:65509:10"/>
+               <p>But to come nearer, and ſhew you what your Baits are, how ſhaped, and to be cho<g ref="char:EOLhyphen"/>ſen.</p>
+               <p n="1">1. The Garden-worm, Lob<g ref="char:EOLhyphen"/>worm, or Treachet and Dew<g ref="char:EOLhyphen"/>worm, are one and the ſame, though in divers places their names thus alter, and this Worm one of the greateſt ſize, is an Excellent Bait for <hi>Chevin, Salmon, Barbel</hi> or <hi>Eel,</hi> though the ſmaller of the ſame kind, are not much affected with them: That with a broad Tail, a red Head, and ſtreak down the Back is the beſt, they are found in the latter end of the Sum<g ref="char:EOLhyphen"/>mer in the Evening, in Gardens, Church-yards, and may be dri<g ref="char:EOLhyphen"/>ven out of the Earth, with the Juice of Walnut-tree Leaves, and Water poured on their holes.</p>
+               <pb n="13" facs="tcp:65509:10"/>
+               <p n="2">2. Marſh or Meadow-worms are found in Marſhy ground, or on banks of Rivers in Fertile Mould, being ſomewhat blew<g ref="char:EOLhyphen"/>iſh, and being well ſcoured it will be tough and lively, and is a very good Bait, eſpecially in <hi>March, April</hi> and <hi>September,</hi> for <hi>Pearch, Flounder, Bream, Smelts, Gudgeon, Salmon, Trout, Grayling,</hi> though many and not without ſucceſs, uſe from <hi>Candlemas</hi> to <hi>Michaelmas,</hi> and in Moſs and Water it may be kept fifteen days before uſe.</p>
+               <p n="3">3. Brandlings, Red-worms, and Gilt-tails, are found in old Dunghills, rotten Earth, Cow-dung, Hogs-dung, or Tanners Bark when it is uſed and caſt by. The Brandling and Gilt-tail, are eſpecially good for taking <hi>Pearch, Tench, Bream, Salmon, Gudgeons, Smelts,</hi> they are taken by <hi>Trout</hi> and
+<pb n="14" facs="tcp:65509:11"/>
+                  <hi>Grayling</hi> in Muddy or Clear Wa<g ref="char:EOLhyphen"/>ter, and the Red-worms well ſcoured, are taken by <hi>Tench, Pearch</hi> and <hi>Bream,</hi> and beſt in Muddy Water.</p>
+               <p n="4">4. The Worm called Tag<g ref="char:EOLhyphen"/>tail, is of a fleſh colour, ha<g ref="char:EOLhyphen"/>ving at his Tail a yellow Tag near half an Inch long, found in Meadows after a ſhower of Rain, or in Chalky ground in <hi>March</hi> and <hi>April,</hi> if the Weather be temperate; this is held an extraordinary good Bait for a <hi>Trout</hi> in cloudy Water, and a little ſcouring will ſerve it.</p>
+               <p n="5">5. The Palmer-fly, Palmer<g ref="char:EOLhyphen"/>worm, Wool bed and Cankers, are accounted one and the ſame, being bred on Herbs, Trees, and Plants, not being properly a Caterpiller, yet the ſhape of one, being in the outward parts Rough and Wooley, being ex<g ref="char:EOLhyphen"/>cellent Baits for the <hi>Chub,</hi>
+                  <pb n="15" facs="tcp:65509:11"/>
+                  <hi>Grayling, Trout, Dace,</hi> or <hi>Roach.</hi> The Palmer-fly and May-fly are held the foundation of Fly-Angling, and have uſually good ſucceſs.</p>
+               <p n="6">6. The Oak-worm, Caterpil<g ref="char:EOLhyphen"/>lars, Cabbage-worm, Crabtree<g ref="char:EOLhyphen"/>worm, or Jack, Colewort<g ref="char:EOLhyphen"/>worm, or Grub, may be long kept with the Leaves of thoſe Trees or Plants, that breed them in Boxes with holes for Air, or in Withey Bark. They take <hi>Chub, Roach, Da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> and <hi>Trout,</hi> the Oak-worm being preferrable to any bred on Trees or Plants, being the beſt taken on the top of the Water, though you may go as deep as you will with them; to get theſe, learch the Colewort or Cabbage Leaves, beat the Oak, Crabtree, or Haw-thorn, ſome of them are hard and tough, others ſmooth and ſoft, ſome horned-tailed,
+<pb n="16" facs="tcp:65509:12"/>others have them on their heads, ſome ſmooth, other hairy.</p>
+               <p n="7">7. Bobs of theſe, there are two ſorts, they are found i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sandy or Mellow ground, eſpe<g ref="char:EOLhyphen"/>cially after Plowing: The one is one is called the Earth Bob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> White Grub, or White Bait being much bigger than a Gentle, having a Red head, the Body ſoft, and full of white Guts, the other is leſſer, and ſomewhat blewiſh, found many times in digging on Heaths, they are excellent Baits till after <hi>Mid-April</hi> to the firſt of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> to take <hi>Tench, Bream, Trout, Chub, Routh, Smelts, Salmon, Dace</hi> and <hi>Carp,</hi> they muſt be kept in an Earthen Veſſel, with the Earth you find them in, co<g ref="char:EOLhyphen"/>vered very cloſe to keep out the Cold and Wind, ſome boil them about two minutes in
+<pb n="17" facs="tcp:65509:12"/>Milk before they uſe them, which makes them tougher and whiter, others dip them in Honey or Gum-Ivy for <hi>Carp, Bream,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth ways prove ſucceſsful.</p>
+               <p n="8">8. Gentles or Maggots, may be kept with Fleſh, and ſcoured well with Wheat-Bran, they are eaſis to be had, or bred, by Putrefaction. Theſe are ſometimes added to a Worm on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Hook, ſometimes to a Dub<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly, and ſo take <hi>Salmon Smelts,</hi> but oftner uſed by them ſelves two or three on a hook; the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay before you Angle, put them into a Box with Gum-Ivy and it will prove ſucceſsful to your ſport, they are good Baits or <hi>Tench, Barbel, Bream, Bleak, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>udge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, Trout, Dace, Chub, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arp.</hi>
+               </p>
+               <p n="9">9. Flag-worms, or Dock<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orms are the ſame, found a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong Flags, in old Pits o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:65509:13"/>Ponds, <hi>viz</hi> The ſmall Fib<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the Flag roots, by open<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> little husks, it is Pale, Yello<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or White, longer and ſlender than a Gentle, and theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be kept in Bran, and are go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Baits for <hi>Br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an, Ten<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h Ro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Carp, D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, Bleak</hi> and <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> when you fiſh with it for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Grayling,</hi> uſe the ſmalleſt L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and the Float, and Fiſh nine ten Inches from the ground.</p>
+               <p n="10">10. The Bark-worm, or A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grub, are all one, being ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> full and white, bent round fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Tail to the Head, the He<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> being red, and the parts v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tender, reſembling a you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dorr or Humble-Bee, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be uſed all the year, but par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cularly from <hi>Michaelmas</hi> to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> middle of <hi>May</hi> or <hi>June,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cept the Fly and Cod-bait, the beſt for <hi>Grayling, D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Roach</hi> and <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b,</hi> it is found b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:65509:13"/>under the Bark of an Oak, Aſh, Alder, or Beech; eſpecially when fell'd, and they have lain about a year, or in the hollow <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f theſe Trees when ſtanding, where doated or rotted; it is a very tender bait; and beſt on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>briſtled Hook, by running the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook in at the Head, and up the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elly, till it ſtays on the briſtle, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd no part of the hooks point <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opears out of it; they are kept <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell in Wheat-Bran, and take <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Grayling</hi> with the ſmalleſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne: Angle with the F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oar, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeping the B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it ſeven or eight <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ches from the bottom; but if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou fiſh with it for <hi>Reach, Chub, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Dace,</hi> uſe Indifferent Tackle. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 11. There is a Bob found un<g ref="char:EOLhyphen"/>der a Cow-turd, called the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow-turd Bob, from the begin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng of <hi>May</hi> to <hi>Michaelmas,</hi> ſome <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll it a Clap Bait, this is like a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eutle, but bigger; you may
+<pb n="20" facs="tcp:65509:14"/>keep it ſometime in Moſs, but the beſt is to keep it in Earth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dug up under the place where you find it; it is a very good bait for <hi>Trout,</hi> if you Angle with it on a briſtled hook, on the top of the Water, and in the Water it is taken by <hi>Chub Carp, Bream, Tench, Dace</hi> and <hi>Roach.</hi>
+               </p>
+               <p n="12">12. The Cod-bait, Cad-baid Cadiſworm, or Caſeworm, are one and the ſame Bait, though of three ſorts. The one i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> found under Stones that lie looſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and hollow in ſmall Brook<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhallow Rivers, or very fin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gravel, in a Caſe or Husk, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when fit for purpoſe, they an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yellow; they are bigger than<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gentle, having a Black o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Blewiſh head; another ſort i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> found in Pits, Ponds, ſlow run<g ref="char:EOLhyphen"/>ning Rivers, Ditches, in Caſe or Husks of Ruſhes, Water
+<pb n="21" facs="tcp:65509:14"/>weeds, Straw, <hi>&amp;c.</hi> and are by ſome called Ruff-coats, or Straw<g ref="char:EOLhyphen"/>worms; theſe are accounted Principal Baits for <hi>Bleak, Sal<g ref="char:EOLhyphen"/>mon-ſmelts, Tench, Bream, Chub, T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>out, Grayling, Dace.</hi> The next is a green ſort, found in Pits, Ponds or Ditches, in <hi>Mar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h,</hi> coming before the yellow ones, for they are not in ſeaſon till the end of <hi>April,</hi> and in <hi>July</hi> are out of ſeaſon; the third ſort is proper in <hi>Auguſt,</hi> being ſmal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er than the other, Theſe muſt be kept tender in Woollen bags, when you carry them for uſe, but to keep them long alive, put in a green Withey Bark, taken off and hollowed like a Trunk, lay it in the Dew a night to moiſten it.</p>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:65509:15"/>
+               <head>Natural Flies for Baits their Seaſons, and wher<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be found, for wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fiſh they are proper, <hi>&amp;c</hi>
+               </head>
+               <p n="1">1. THE Ant-flies are foun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in their Hills, about th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> end of <hi>June, July, Auguſt,</hi> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt part of <hi>September,</hi> with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Earth you take with them, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may be kept in Glaſs Bottles<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> two or three of theſe fixed o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſmall hook, are certain Bait<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for <hi>Chub, Reach</hi> and <hi>Dace</hi> if you Angle under Water not above ſix Inches from the bottom.</p>
+               <p n="2">2. The brood of Humble<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bees, Hornets and Waſps, ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good Baits, dry them over <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Fire, or in an Oven, ſo not be<g ref="char:EOLhyphen"/>ing over done, they will la<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:65509:15"/>long, and ſit handſomely on the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ook, to take <hi>Chub, Eel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eam, Flounders, Roach</hi> or <hi>Dace,</hi> ſome <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oil them, but then they will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot keep long, Hornets, Waſps, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Humble-Bees may be uſed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>live, when their Wings are a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le grown, and their Legs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hort, eſpecially for the <hi>Chub,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s alſo the Black-Bee breeding <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Clay Walls.</p>
+               <p n="3">3. The Fern-Fly or Fern-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ud, is found among Fern from <hi>May-day</hi> to the end of <hi>Auguſt,</hi> it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s thick and ſhort of Body, has two pair of Wings, the upper<g ref="char:EOLhyphen"/>moſt reddiſh and hard, which may be taken off, the laſt ten <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ays of <hi>May</hi> the <hi>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>out</hi> will take <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t every day, and the <hi>Chub</hi> re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſes it no part of the Sum<g ref="char:EOLhyphen"/>mer.</p>
+               <p n="4">4. The Stone-fly and Green. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke. The firſt of theſe is found under hollow ſtones at Ri<g ref="char:EOLhyphen"/>ver
+<pb n="24" facs="tcp:65509:16"/>ſides: The Body of it is pretty thick, and almoſt as broad at the Tail as in the mid<g ref="char:EOLhyphen"/>dle, it is of a curious brown co<g ref="char:EOLhyphen"/>lour, ſtreaked a little with yellow on the back, but much more on the Belly; he uſes much the Water, and ſeldom flies though he has large Wings that double on his back, he comes in about <hi>April,</hi> and con<g ref="char:EOLhyphen"/>tinues till about the end of <hi>June,</hi> and is a very killing fly of <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ach, Dace</hi> and <hi>Bleak,</hi> and the Green-Drake has his Wings ſtanding high like a Butter-fly, and his motion in flying the ſame, the body is in ſome of a Paler, in others of a darker Yellow, Rib<g ref="char:EOLhyphen"/>bed with Rows of Green, long and ſlender, his Tail turns up to his back, having three long whisks at the end of it, he comes in about the middle o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>May,</hi> and continues till <hi>Mid<g ref="char:EOLhyphen"/>ſummer,</hi>
+                  <pb n="25" facs="tcp:65509:16"/>and is found by ſtoney Rivers, with this Bait for <hi>Floun<g ref="char:EOLhyphen"/>ders, Dace, Bleak, Roach</hi> and <hi>Pearch.</hi>
+               </p>
+               <p n="5">5. The great Moth that has a conſiderable big head with whitiſh Wings, is to be found in Summer Evenings in Gardens, on Trees, and Plants, it ſpeedi<g ref="char:EOLhyphen"/>ly takes <hi>Chub</hi> if you dibble with it.</p>
+               <p n="6">6. The Hawthorn-fly is black, found frequently on Hawthorn<g ref="char:EOLhyphen"/>trees, when the Leaves are put out, the beſt uſe this can be put to, is to Dibb in a River for <hi>Trout.</hi>
+               </p>
+               <p n="7">7. The Aſh-fly, Wood-cock-fly or Oak-fly is the ſame, under different names, and holds good from the beginning of <hi>May</hi> to the end of <hi>Auguſt,</hi> its of brown<g ref="char:EOLhyphen"/>iſh colour, and uſually found in the body of an Oak, or Aſh, ſtanding with his head down<g ref="char:EOLhyphen"/>wards
+<pb n="26" facs="tcp:65509:17"/>towards the Root of the Tree, and is a very good Bait for a <hi>Trout.</hi> And to make ſpeedy work, put it long ways on the hook, and at the point a Cod bait, and let them ſink ſix Inches or a foot into the Water, raiſe it gently, and having a ſhort dibbing Line, you need not fear <hi>Trouts</hi> in clear Water, and inſtead of a Cod-bait, if you have it not, you may uſe an Oak-worm, or Green-Grub, you may dub this, or make it Arti<g ref="char:EOLhyphen"/>ficially with Iſabella, coloured Mohair, and bright brown Bears-hair, wrapped on yellow Silk. Theſe being the Princi<g ref="char:EOLhyphen"/>pal Flies, uſed in Angling, I now come to mixed Baits of ano<g ref="char:EOLhyphen"/>ther Nature.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:65509:17"/>
+               <head>Miſcellaena of Baits Very Taking, and much in uſe.</head>
+               <p n="1">1. <hi>SAlmon</hi> Spawn b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iled, and faſtned on the Hook, is a very good Bait for <hi>Chub,</hi> and in ſome Rivers for <hi>Tro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,</hi> it being advantageous to the Angler, eſpecially in Winter and Spring, if he keeps it ſalted; eſpecially in places where <hi>Salmon</hi> uſed to Spawn, for thither the Fiſh ga<g ref="char:EOLhyphen"/>ther to expect it.</p>
+               <p n="2">2. Graſhoppers the latter end of <hi>June,</hi> all <hi>July,</hi> and <hi>Auguſt</hi> if their Legs and outward Wing be taken off, eſpecially fo <hi>Roach, Trout</hi> and <hi>Grayling,</hi> an here you may put a ſlende plate of Lead on the ſhank <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your hook, ſlendereſt at th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bent, then draw your Graſhop
+<pb n="28" facs="tcp:65509:18"/>over it, after put a leſſer Graſhopper, or Cod-bait at the point, and keep it moving, lift<g ref="char:EOLhyphen"/>ing up and ſinking again, a <hi>Chub</hi> will alſo take the Bait free<g ref="char:EOLhyphen"/>ly, and ſo will a <hi>Tro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi> if you dib with it.</p>
+               <p n="3">3. The Water-Cricket, Wa<g ref="char:EOLhyphen"/>ter <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uſe or Creeper is but one, theſe take <hi>Trout</hi> in <hi>March</hi> and <hi>April,</hi> and ſometimes in <hi>May,</hi> if you Angle at the River: it is to be Angled with in Clear Water, within a foot of the bottom, ſome let it drag on the ground. This Creeper is bred in Stoney Rivers, and held to turn into a Stone-fly about the middle of <hi>May,</hi> that Fly not being any where ſeen before.</p>
+               <p>Lamery Pride, or Seaven, is a very good Bait for <hi>Chub</hi> and <hi>Eels,</hi> Night or Day, this is no other than little live things like ſmall <hi>Eels,</hi> no thicker than a
+<pb n="29" facs="tcp:65509:18"/>Straw, and are to be found in Sandy Muddy heaps, near to the Shoar in Rivers.</p>
+               <p>Snails, the Black and White are good Baits for <hi>Chub,</hi> very early in the Morning, <hi>Trout</hi> and <hi>Eels</hi> take them on Night hooks, but the Bellies of the black may be ſlit, ſo that the white may appear, ſome dib for <hi>Chub</hi> with Houſe-Crickets.</p>
+               <p>For <hi>Chub, Barb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l, Roach</hi> and <hi>Dace</hi> you may Angle with Cheeſe, or Oat Cake, eſpecial<g ref="char:EOLhyphen"/>ly at the Ledger Bait, the Cheeſe you may wrap up two or three days in a wet Linnen Cloath, or moiſten it over with Honey and Water.</p>
+               <p>Black-berries, Mul-berries, Cherries, or Ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>berries take the <hi>Chub</hi> in Ponds or Rivers, Lip-berries, or Aron-berries, being when ripe, of a tranſpa<g ref="char:EOLhyphen"/>rent red, found in dry Ditches,
+<pb n="30" facs="tcp:65509:19"/>or dry Banks, fit for uſe in <hi>July</hi> and <hi>Auguſt,</hi> two of theſe on a hook will take a <hi>Roach,</hi> and four a <hi>Chub.</hi>
+               </p>
+               <p>As for the <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke</hi> he is a greedy Devourer, and therefore moſtly delights in Fiſh, Frogs, <hi>&amp;c.</hi> therefore your Baits for him muſt be ſmall <hi>Dace, Minows, Roach, Salmon Smelt, Gudgeon, Bleak, Millers-thumb,</hi> ſmall <hi>Pearch</hi> with the back fins out off, alſo <hi>Tro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi> and <hi>Eels</hi> well ſcowred in Wheat-Bran, to take away the Sli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e; and indeed moſt ſort of ſmall Fiſh he takes, and how you are to manage them on your hook, I ſhall tell you when I come to treat of the taking him in the River of <hi>Tham's.</hi> Periwinckle, a kind of Water-Snall, is much uſed for <hi>Roach,</hi> being taken whole out of its Shell; Shrimps taken out of their Husk or Shell, may be uſed as a Bait for <hi>Pike</hi> or
+<pb n="31" facs="tcp:65509:19"/>
+                  <hi>Chub.</hi> The <hi>White-bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te</hi> with much Seed, by ſome called <hi>All-ſeed,</hi> is a proper Bait for Fiſh.</p>
+            </div>
+            <div type="part">
+               <head>Paſtes proper for the Angler.</head>
+               <p>PAſtes are of ſeveral kinds, though tending to one and the ſame end, for a <hi>Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b</hi> or <hi>Che<g ref="char:EOLhyphen"/>vin,</hi> make a Paſte of the fatteſt Old Cheeſe, the Suet of a Mut<g ref="char:EOLhyphen"/>ton Kidney, a little ſtrong Run<g ref="char:EOLhyphen"/>net, mix them equally and fine<g ref="char:EOLhyphen"/>ly together, then put as much Powder of Turmerick, as will give them a fine Yellow Co<g ref="char:EOLhyphen"/>lour.</p>
+               <p>For <hi>Roach</hi> and <hi>Dace,</hi> Grate fine Bread into a little fair Wa<g ref="char:EOLhyphen"/>ter, wherein Gum-Ivy has been ſoaked. For the <hi>Barbel</hi> in <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> make a Paſte of New
+<pb n="32" facs="tcp:65509:20"/>Cheeſe and Mutton Suet. For <hi>Roach</hi> or <hi>Dace,</hi> you may put a little Butter to your Crumb<g ref="char:EOLhyphen"/>bait, and Colour it with Saffron. For <hi>Carp</hi> or <hi>Tench,</hi> mix crumbs of Bread with Hony, though for a <hi>Carp</hi> I reckon this the ſureſt.</p>
+               <p>Take Bean Flower, or for want of it Wheat-flower, the inſide of the Leg of a young Rabbit, Catlin, or Whelp, white Bees-wax, and Sheeps Suet, pro<g ref="char:EOLhyphen"/>portionable, beat them in a Mor<g ref="char:EOLhyphen"/>ter till well Incorporated, then moiſten the Maſs with clarified Honey, and work it up into little Balls, before a gentle fire.</p>
+               <p>The <hi>Chub</hi> in Winter takes a paſte made of ſtrong Cheſhire Cheeſe, beaten with Butter and Saffron till it become a Le<g ref="char:EOLhyphen"/>mon colour.</p>
+               <pb n="33" facs="tcp:65509:20"/>
+               <p>Stoned Cherries, fine grated Manchet, Sheeps Blood and Saf<g ref="char:EOLhyphen"/>fron make a good Paſte for <hi>Roach, Dace, Bleak, Chub, Trout, Pearch,</hi> and for the <hi>Chub</hi> only put a little Ruſty Bacon in it.</p>
+               <p>Another excellent Paſte is made of the fatteſt Old Cheeſe, Mutton Kidney-Suet, ſtrong Rennet, Anniſeed Water, Wheat Flower, and the drip<g ref="char:EOLhyphen"/>ping of Ruſty Bacon held againſt the Fire.</p>
+            </div>
+            <div type="part">
+               <head>What is to be obſerved in Angling with Paſts.</head>
+               <p n="1">1. YOU muſt proportion the quantity of your Paſte you put on your hook, to the ſmallneſs or largeneſs of the Fiſh you Angle for, as in other Baits.</p>
+               <pb n="34" facs="tcp:65509:21"/>
+               <p n="2">2. You may try Oils upon any of theſe Paſts, and as you ſee your ſucceſs, ſo continue the one, or the other, and the beſt for this purpoſe are Oil of Po<g ref="char:EOLhyphen"/>lipody of the Oak, Oil of Petre, Oil of Ivy, and as pro<g ref="char:EOLhyphen"/>perly Gum of Ivy, and Aſſafoe<g ref="char:EOLhyphen"/>tida.</p>
+               <p n="3">3. To ſtrengthen any Paſt, and ſo prevent its waſhing off the Hook, it will not be amiſs to beat a ſmall quantity of fine Flax cut ſhort, Cotton Wool, or fine Lint among them, which will prove very binding, thoſe that you would have keep long, put a little White Bees wax in<g ref="char:EOLhyphen"/>to them, and anoint them with clarified Honey, the latter you may wipe off, when you uſe occaſion.</p>
+               <p n="4">4. Paſte, or tender Baits muſt not be Angled with, in Ra<g ref="char:EOLhyphen"/>pid Streams, but on a ſmall
+<pb n="35" facs="tcp:65509:21"/>hook in Pits, Ponds, Meers, or ſlow Running Rivers; your Eye in this ſort of Angling muſt be quick, your Rod ſomewhat ſtiff, and a nimble hand to pull up or elſe the Bait and Fiſh will quickly bid you farewell. This is better done with a Quill float than a Cork, which ſooner ſhews the Nibble or Bite, and if you then be not very quick, your labour is loſt, and with theſe Paſts, ſucceſs is uſually had for <hi>Bream, Bleak, Chub, Roach, Dace, Carp, Tench, Barbel.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Oils and Ointments uſeful in Angling.</head>
+               <p>TAke Oil of Ivy-berries, a<g ref="char:EOLhyphen"/>noint the inſide of an Oak<g ref="char:EOLhyphen"/>en Box with it, and put three or four Worms, or other live
+<pb n="36" facs="tcp:65509:22"/>Baits into the Box, ſhutting i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cloſe, but keep them not there too long, leaſt the ſtrength of the Oil kill them, but take theſe out and put in more, and ſo they being ſcented with the Oil, it will allure the Fiſh the more readily to take them. This may be done in the ſame manner for want of Oil, with Gum-Ivy, which is a Tear that flows out of the Ivy Stalks, when ſlit, or wounded by peircing.</p>
+               <p>Oil of Spike and diſſolved Gum Ivy, are held to be much attracting, the Bait being an<g ref="char:EOLhyphen"/>ointed with them.</p>
+               <p>Oil of Polypodi, of the Oak, Venice Turpentine, and new Ho<g ref="char:EOLhyphen"/>ney is very good, if eight Inch<g ref="char:EOLhyphen"/>es of the Line next the Hook, be anointed with it; but then there muſt be two or three Hairs, for it will not well ſtick
+<pb n="37" facs="tcp:65509:22"/>to a ſingle one, however do not clog your Line with it.</p>
+               <p>Chimical Oil of Lavender, or for want of It, Oil of Spike ſix drops, three Drams of Aſſafoe<g ref="char:EOLhyphen"/>tida, <hi>Venice</hi> Turpentine, one Dram, Camphite one Dram, make theſe into an Ointment, and anoint your Line, as the for<g ref="char:EOLhyphen"/>mer, this in Clear Water won<g ref="char:EOLhyphen"/>derful takes <hi>Gudgeons.</hi>
+               </p>
+               <p>Man's Fat, and the Fat of the Thigh-bone of a Heron, makes an Ointment that rarely fails, and is eſteemed by thoſe that have tried it, the beſt of any, being a new Experiment.</p>
+               <p>But let me commend to you above others this, take the Oils of Chammomile, Lavender, Anniſeed, each a quarter of an Ounce, Man's Fat, Heron's Greaſe, and Cats Greaſe, and the beſt Aſſafoetida, each two Drams, two Scruples of Cum<g ref="char:EOLhyphen"/>min
+<pb n="38" facs="tcp:65509:23"/>ſeed, finely beaten to Pow<g ref="char:EOLhyphen"/>der, <hi>Venice</hi> Turpentine, Cam<g ref="char:EOLhyphen"/>phir and Galbanum, of each a Dram, add two Grains of Ci<g ref="char:EOLhyphen"/>vet, and make them into an Un<g ref="char:EOLhyphen"/>guent; this muſt be kept cloſe in a glazed Earthen Pot, or i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> loſes much of its vertue, anoin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your Line with it as before, and your expectation will be ſtrange<g ref="char:EOLhyphen"/>ly anſwered.</p>
+               <p>Oil of Aſper ſo much noiſed about, and ſaid to be Extracted from a Fowl called the <hi>Oſprey,</hi> is now found to be a mixture of the Oils of Spike, Lavender, and re<g ref="char:EOLhyphen"/>fined Oil of Turpentine, which however has a conſiderable ef<g ref="char:EOLhyphen"/>fect in Still, or ſlow moving Waters, and obſerve in this caſe, your Line muſt be anointed eve<g ref="char:EOLhyphen"/>ry ſecond drawing up, or the ſtrength of the ſcent being waſh<g ref="char:EOLhyphen"/>ed off, you may expect your ſport to ceaſe.</p>
+               <pb n="39" facs="tcp:65509:23"/>
+               <p>I might now ſpeak ſomething of Artificial Flies, and other Ar<g ref="char:EOLhyphen"/>tificial Baits, but not to keep the Angler too long from the Water, I ſhall have occaſion elſe<g ref="char:EOLhyphen"/>where to treat of them.</p>
+            </div>
+            <div type="part">
+               <head>Fiſhes Haunts proper to be known.</head>
+               <p>IF you are not certain of any Waters to Fiſh in, your buſi<g ref="char:EOLhyphen"/>neſs is to try the moſt likely and promiſing, <hi>viz.</hi>
+               </p>
+               <p>Where Trees fallen, Wood, Ruſhes, Weeds, or Rubbiſh are in Rivers, or likely large Ponds, there are ſtore of Fiſh promiſed, for thither they reſort for warmth and ſhelter, but it is very troubleſome Angling there.</p>
+               <pb n="40" facs="tcp:65509:24"/>
+               <p>The next are Weirs, Weir-Pools, Mill Streams, Flood gates, Piles, Poſts, Pillars of Bridges, Cataracts and Water-falls, Ed<g ref="char:EOLhyphen"/>dies, Whirling Pits, the ſide of a Stream in the Summer eſpe<g ref="char:EOLhyphen"/>cially, for then they love to bask and lye ſhallow, unleſs the Weather be exceſſive hot; tho' I may herein except <hi>Carp, Eels</hi> and <hi>Tench,</hi> in the Winter, find for the generallity the deep as the warmeſt, in a gentle Ebb and Flow, by the beating of the Waters, at any turning or op<g ref="char:EOLhyphen"/>poſing Bank, there is good bi<g ref="char:EOLhyphen"/>ting, ſo that ſtrait Rivers are not ſo advantagious to Angle in, as thoſe that are Winding or Crooked, having Eddies, Pits, and Pools in them, occaſioned by the Waters beating on the Points and Doublings, and thence being forced back, and into thoſe Pits and Creeks, the Fiſh
+<pb n="41" facs="tcp:65509:24"/>will get in ſome conſiderable numbers many times, where the Water is narrow, try both ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es; but to come ſomewhat near<g ref="char:EOLhyphen"/>er.</p>
+               <p>The <hi>Salmon</hi> is found in large ſwift Rivers, that Ebb and Flow, Gravelly and Craggy. The <hi>Trout</hi> moſtly in purling Brooks <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Rivers that are ſomewhat <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wift, and have Sandy bottoms. The <hi>Carp</hi> and <hi>Tench</hi> love Still Waters, or ſuch as gently move, where Weeds or Roots of Trees <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re near to ſhelter them on occa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion. <hi>Eels</hi> generally covet Mud<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Rivers, Ponds, or Slimy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and, eſpecially thoſe of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arger ſize. The <hi>Pike, Bream</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <hi>Chub,</hi> are moſtly found in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>andy or Clay Rivers, Brooks or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onds, wherein Buſhes, Bul<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſhes, or Flags grow. The <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arbel, Roach, Dace</hi> and <hi>Ruff,</hi> for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e moſt are found in Sandy or
+<pb n="42" facs="tcp:65509:25"/>Gravelly deep Rivers, cove<g ref="char:EOLhyphen"/>ting to be under the ſhade of Trees. The <hi>vmber</hi> is likelieſt to be found in Marley or Clayey Streams, running very ſwift. The <hi>Gudgeon</hi> likes beſt'a Sandy or Gravelly bottom; yet for all this, a trial of divers Waters will not be amiſs, where you may ſuſpect any Fiſh are likely to breed; for Experience in this Art is the ſureſt Inſtruct<g ref="char:EOLhyphen"/>or.</p>
+            </div>
+            <div type="part">
+               <pb n="43" facs="tcp:65509:25"/>
+               <head>Times proper above others to Angle in, according to the Water, Weather, <hi>&amp;c.</hi>
+               </head>
+               <p>IN the hotteſt Months, take your opportunity when it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cloudy, and the Water is mo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by gentle gales.</p>
+               <p n="2">2. When the Floods have car<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed away the filth, ſudden <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owers incumber the Waters <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith, and the Rivers, <hi>&amp;c.</hi> re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in their uſual bounds, looking <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a paliſh colour.</p>
+               <p n="3">3. When a violent ſhower <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Muddied or Troubled the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ater, and after that the ſtream <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns ſwift, for then they uſual<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeek for Creeks, and Shelter, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d in the little Rivulets run<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing into the great one.</p>
+               <p n="4">4. If you Fiſh for <hi>Carp</hi> or <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nch,</hi> do it early in the Morn<g ref="char:EOLhyphen"/>ing,
+<pb n="44" facs="tcp:65509:26"/>
+                  <hi>viz.</hi> a little before Sun-ri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> till eight, and from four in t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Afternoon, till Sun ſet, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the days are of a convenie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> length, <hi>June, July,</hi> and <hi>Auguſt</hi> but in <hi>March,</hi> the beginning <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>April,</hi> and end of <hi>September</hi> they refuſe not to bite in t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> warm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h of the day, the Wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> being ſtill.</p>
+               <p n="5">5. If you Angle for the <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mon,</hi> the beſt time is from thre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Afternoon till Sun ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and in the Morning as before his proper Months are <hi>May, June, July</hi> and <hi>Auguſt.</hi> The <hi>Bar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> bites beſt in <hi>May, June, July</hi> and the beginning of <hi>Auguſt,</hi> fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> five to eleven in the Morning The <hi>Pearch</hi> and <hi>Ruff</hi> all day <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> very Cool and Cloudy Weather The <hi>Bream</hi> bites from Sun-ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> till nine or ten in the Morning in Muddy Water, eſpecial<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when the Wind blows hard, f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="45" facs="tcp:65509:26"/>the moſt part keeping in the middle of the River or Pond in <hi>May, June, July</hi> or <hi>Auguſt.</hi>
+               </p>
+               <p n="6">6. The <hi>Pike</hi> Bites in <hi>July, Au<g ref="char:EOLhyphen"/>guſt, September</hi> and <hi>October,</hi> about Three in the Afternoon in gentle Water, and a clear Gale. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Winter he Bites all the Day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong, and in <hi>April, May,</hi> and the beginning of <hi>June,</hi> early in the Morning, and late in the Even<g ref="char:EOLhyphen"/>ing. As for <hi>Roach</hi> and <hi>Dace,</hi> they Bite all the Day long, if the Weather be not in the ex<g ref="char:EOLhyphen"/>tremities of Heat or Cold, on the top of the Water. The <hi>Gud<g ref="char:EOLhyphen"/>geon</hi> Bites beſt in <hi>April,</hi> and till he has ſpawned in <hi>May,</hi> and if the Weather be Cool, till Waſp time, and at the end of the year all day long in a gentle ſtream, obſerve when you An<g ref="char:EOLhyphen"/>gle for him, to ſtir and rake the ground, and he will Bite the bet<g ref="char:EOLhyphen"/>ter. As for the <hi>Flounder</hi> though
+<pb n="46" facs="tcp:65509:27"/>he is found only in Ebbing a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Flowing Rivers, that have Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>munication with the Sea, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bites freely all day in <hi>April, May, June</hi> and <hi>July,</hi> in a ſwift ſtrea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he will Bite in the Still, but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> near ſo freely.</p>
+            </div>
+            <div type="part">
+               <head>Ground Baits to gather an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feed the Fiſh, that you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> better, and readily kno<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> where to find them, &amp;c.</head>
+               <p>THE Ground Baits, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> baiting the Ground, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Barly or Wheat ſoft boile<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which for prevention of ſcatte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing, you may mix with ſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> pleaſant freſh Earth, Ale-gral<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Wheat Bran ſteeped in ſheep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blood, blood clotted, dried an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cut in ſmall pieces, Periwinkle
+<pb n="47" facs="tcp:65509:27"/>bruiſed in their Shells, black and white Snails, Worms cut in ſunder, and made up in little Balls of Earth. The Guts of Fowl, the ſmall Guts or Livers cut ſmall, Old Cheeſe and O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t-Cakes, bruiſed together, Malt groſly ground, theſe eſpecially gather <hi>Tench, Dace, Carp, Chub, Ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch, Bream</hi> and <hi>Barbel,</hi> and the more you feed them, they will be the ſurer to keep to that place, and be the fatter to re<g ref="char:EOLhyphen"/>ward your pains when taken, and theſe throw in a little above the place you Angle at, if it be a moving water, for before they ground, the ſtream will carry them ſome diſtance from the place you throw at.</p>
+               <p>Theſe are eſpecially good when you Angle with the Cod<g ref="char:EOLhyphen"/>bait, Gentle, Waſp, or Paſte, for it will make them take your Bait more eagerly, and with leſs
+<pb n="48" facs="tcp:65509:28"/>ſuſpition. And this directs you to the <hi>Pike</hi> or <hi>Pearch,</hi> for if thoſe Fiſh you Angle for be not there, and neither others have circumvented you, nor the ſea<g ref="char:EOLhyphen"/>ſon improper, then are theſe two devourers of Fiſh, lurking thereabout, and the reſt dare not approach for fear of being made a Prey, therefore uſe ſuitable Tackle and Baits to take them, and then other Fiſh will boldly approach.</p>
+               <p>When you Angle in Clear Water, keep out of ſight as much as may be, ſheltered be<g ref="char:EOLhyphen"/>hind ſome Buſh or Tree, or by ſtanding as far off as poſſible, keeping your Eye only on the ſurface of the Water where your Float is, and to effect this the better, your Rod muſt be pro<g ref="char:EOLhyphen"/>portionable in length, to an<g ref="char:EOLhyphen"/>ſwer the place you Fiſh at, and eſpecially at the ground,
+<pb n="49" facs="tcp:65509:28"/>and a long Rod and Line at Ar<g ref="char:EOLhyphen"/>tificial Flies are very neceſſary, an Angler muſt add Silence to his Patience, and move his Bo<g ref="char:EOLhyphen"/>dy as little as poſſible may be, for the Fiſh are very quick<g ref="char:EOLhyphen"/>ſighted, and naturally fearful, particularly the <hi>Chub, Carp</hi> and <hi>Trout.</hi>
+               </p>
+               <p>When in a Clear Water you Angle at the Ground, or with a Natural Fly Dibble, always do it going up the River, but in Muddy Water, or when you do it with a Dub-fly uſe the contra<g ref="char:EOLhyphen"/>ry; if you have hooked a Fiſh, and ſuſpect the ſtrength of your Line or Rod, let him Play and Tire within the Water, before you offer to bring him near the top, be ſure to keep the Rod bent, leaſt running to the end of the Line, he break his hold, or the hook, and if he be tired, and have in a manner done
+<pb n="50" facs="tcp:65509:29"/>fluſtering, bring him toward<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the top, and if there be occaſion, uſe your Landing Net or Hook; and take this for a genera<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rule in hooking all ſtrong<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fiſh.</p>
+            </div>
+            <div type="part">
+               <head>How to take the <hi>Salmon</hi> and <hi>Salmon Smelt,</hi> by Angling, <hi>&amp;c.</hi>
+               </head>
+               <p>THE <hi>Salmon</hi> though not found in many Rivers in <hi>England,</hi> is of Principal note for River Fiſh, though it as well belongs to the Sea. The chief Rivers noted for them are the <hi>Thanes, Severn, Trent, Lon</hi> at <hi>Lancaſter,</hi> and about <hi>Cockerſand-Abby</hi> at <hi>Workinton</hi> in <hi>Cumberland, Bywell</hi> in <hi>Northumberland, Durham, Newcaſtle</hi> on <hi>Tine, Dee</hi> in <hi>Cheſhire,</hi>
+                  <pb n="51" facs="tcp:65509:29"/>and ſome Rivers in <hi>Wales,</hi> as <hi>
+                     <g ref="char:V">Ʋ</g>sk, Wye</hi> and <hi>Tivy;</hi> he common<g ref="char:EOLhyphen"/>ly is found in the Water deep, and about the middle.</p>
+               <p>His beſt Biting is Nine in the Forenoon, and Three in the Af<g ref="char:EOLhyphen"/>ternoon in Clear Water, eſpe<g ref="char:EOLhyphen"/>cially when the Wind blows againſt the ſtream, but not very roughly: Then take the Baits directed, and the ſtrongeſt Tackle, for when he is ſtruck, he plunges and leaps, though not uſually does he endeavour to go to the end of the Line. The younger ſort of theſe are ſo tender mouthed, that unleſs you faſten two Hooks almoſt in a quarter of a Circle aſunder <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they uſually break hold; for the great <hi>Salmon,</hi> the principal Bai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is well ſcowered Dew-worms <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for the <hi>Salmon-Smelts</hi> the Brand<g ref="char:EOLhyphen"/>ling, Gilt-tail, Meadow-worm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>&amp;c.</hi> and for Flies he takes them<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="52" facs="tcp:65509:30"/>Natural or Artificial and if you uſe theſe, a Cod Bait or Gentle at the top of the Hook is ef<g ref="char:EOLhyphen"/>fectual, this with the Dub-fly takes <hi>Salmon-Smelts</hi> beyond Ex<g ref="char:EOLhyphen"/>pectation, but for a greater <hi>Salmon,</hi> if your Fly be Artificial, make it very large with ſix Wings one behind another, that by that &amp; the different colours, he may ſuppoſe it, as indeed it will appear in the Water, a Cluſter of Flies. He is taken at the Ground with a running Line or Float, and ſometimes he Bites lower than Mid-water at Ground-Baits, he is taken with Oak-Worms, Dub-flies, Cod-baits, Clap-baits, and the larger ſort ſometimes take the Minow and Loach, and for theſe you may Angle with a Wyer Ring on the top of the Rod, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etting the Line run through it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o a great length, and when
+<pb n="53" facs="tcp:65509:30"/>he's hooked, and is ſpent with plunging, fix your Land hook in his Mouth, that is ſcrewed to the end of a Pole, as directed, to land him.</p>
+            </div>
+            <div type="part">
+               <head>Several ways to take the <hi>Pike,</hi> and where to find his haunts, <hi>&amp;c.</hi>
+               </head>
+               <figure>
+                  <head>Pike</head>
+               </figure>
+               <p>TO find this Greedy Fiſh, you muſt Caſt in Sandy, Chalkey, or Clayey places, ſomewhat near the Banks, for
+<pb n="54" facs="tcp:65509:31"/>he coveting ſolitude, often lurks in holes to ſurprize other Fiſh, as they fearleſsly ſwim by, ſome<g ref="char:EOLhyphen"/>times he ſhelters among Bul<g ref="char:EOLhyphen"/>ruſhes, Water-Docks, Weed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or Buſhes, and then he Bite<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> about the middle of the River, or Pond, at Mid-water, and for him you muſt keep your Bait in a gentle motion, and at all times to be above a foot from the Ground; he rarely Bites in the Night, for then he is for the moſt part gone to reſt in his re<g ref="char:EOLhyphen"/>tirement. In <hi>April, May, June,</hi> and the beginning of <hi>July,</hi> he does it moſt freely Morning and Evening in Clear Water, and a gentle gale in Still Water, or a moderately moving one, and in the reſt of <hi>July, Auguſt, Sep<g ref="char:EOLhyphen"/>tember</hi> and <hi>October,</hi> his beſt Bi<g ref="char:EOLhyphen"/>ting time is about Three in the Afternoon, in Water as before in Winter Months, if the Wea<g ref="char:EOLhyphen"/>ther
+<pb n="55" facs="tcp:65509:31"/>be pleaſing, and the Water Clear, he will not refuſe to Bite at any time, though the moſt certain time is about Three of the Clock in the Afternoon, if particularly in a gloomy, cloudy day, but the Water Muddied with Rains, there is no certain<g ref="char:EOLhyphen"/>ty of him, his beloved Baits are <hi>Gudgeon, Roach, Dace, Minows, Salmon-Smelts</hi> no bigger than <hi>Gudgeons,</hi> very ſmall <hi>Pikes;</hi> in the Winter Mouths a piece of an <hi>Eel,</hi> Fat Bacon, a young <hi>Trout</hi> or <hi>Pearch,</hi> if the Pricks be cut off the back, <hi>&amp;c.</hi> but all his Baits muſt be very freſh, and a live one tempts him much the ſooner, which may be put on by drawing the Line between the Skin and the Ribs of the Fiſh, and ſo on the Hook, faſten<g ref="char:EOLhyphen"/>ing it in the Gills, and this you may uſe in Trowling, but here have your Tackle very ſtrong,
+<pb n="56" facs="tcp:65509:32"/>with Wyre about a foot from your Hook, that next to it Silk, &amp; the reſt of the Line ſtrong ſpun Flax, come as little as you can near the Weeds, leaſt they ſpoil your Bait before the Pike comes at it, faſten the Tail of the Bait to the Joint of the Wire, and having fixed your Tackle, that the Line may Run and Play, let ſo much lead be at the Hook, as may carry the Fiſh's Head downward, as if after Playing on the top, ſhe was going to the bottom, and when you have ſunk it ſo, that it is at a conve<g ref="char:EOLhyphen"/>nient depth for the <hi>Pike,</hi> ſlack your Line, and give it ſcope, that he may run to his hold, and there pouch or ſwallow it, which you may know by the moving of the Line in the Water, then with a ſmart Jerk, hook him, ſome uſe no Rod with this, but Lead and Float, holding the
+<pb n="57" facs="tcp:65509:32"/>Line in their hands on Links, and indeed there are ſeveral methods taken, though all to the ſame purpoſe, wherefore for brevities ſake I omit them.</p>
+               <p>Angling for him at the Snap, is to give him leave to run a little, and then ſtrike, which muſt be done the contrary way to that which he moveth, there<g ref="char:EOLhyphen"/>fore a double ſpring-hook is uſeful in this way of Angling eſpecially, for great <hi>Pike</hi> uſually will hold the Bait ſo faſt in his Teeth, that you may fail to pull it out of his Mouth, and like<g ref="char:EOLhyphen"/>wiſe ſtrike him, when if he holds the ſpring hook never ſo faſt, the Wire will draw through the Bait, and ſo the ſpring open<g ref="char:EOLhyphen"/>ing you will frequently hook him on the outſide of his mouth, though Trowling is ſurer than this, and more practicable, yet
+<pb n="58" facs="tcp:65509:33"/>this is beſt uſed in <hi>March,</hi> whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>Pike</hi> Bites ill, then upon Spawning they are Sick and loſe their Stomachs, bait this as the former, and he may be taken this way, when he is ſo.</p>
+            </div>
+            <div type="part">
+               <head>Other Brief Rules for <hi>Pike</hi> Angling.</head>
+               <p n="1">1. WHen the <hi>Pike</hi> has taken your Bait, obſerve how he moves, if ſlowly, give him time and you will rarely miſs him; let not your Bait fall in one and the ſame place above once or twice, for if he take it not, then he is farther off.</p>
+               <p n="2">2. If you find after he has taken the Bait, he lies ſtill, as
+<pb n="59" facs="tcp:65509:33"/>ſometimes he will, move your hand gently, to get notice which way his Head lies, leaſt in ſtriking you happen to pull the Bait out of his Mouth, if that cannot be diſcerned, ſtrike directly upward: At the Snap have ſtrong Tackle, and give two luſtly Jerks quickly one after another, faſtening a Swi<g ref="char:EOLhyphen"/>vel at the end of your Line, which muſt be uſed at Trowl and Snap. and your Armed Wire muſt be hooked on it.</p>
+               <p n="3">3. For the Snap, have a hol<g ref="char:EOLhyphen"/>low piece of Lead, that it may paſs over the Wire, and End of the Hook, which you draw with<g ref="char:EOLhyphen"/>in the Fiſhes Gills or Mouth, that as directed it may keep the Head downwards, and at either of theſe baitings, if you out away one of the Fins of the Bait cloſe at the Gills, alſo behind the vent, and one on the con<g ref="char:EOLhyphen"/>trary
+<pb n="60" facs="tcp:65509:34"/>ſide, it will play the bet<g ref="char:EOLhyphen"/>ter, and ſeem more lively.</p>
+               <p n="4">4. Be ſure to raiſe your hand in Caſting, when the Bait is about to fall into the Water, ſo that by daſhing it may not fright him away, and when it is ſunk a little, draw it near the top towards you a little, and ſo let it ſall again; and if your Wire Hook is joined with a Steel Ring, the Bait will play better, and ſink more di<g ref="char:EOLhyphen"/>rect; for Snap, <hi>March</hi> is the chief Month, <hi>February, April, May, September</hi> and <hi>October</hi> for the Trowl, and though a large Bait invites him moſt, yet a leſ<g ref="char:EOLhyphen"/>ſer takes him more ſurely, yet let your Bait be ſutable to your Hook; and this way with a <hi>Minow, Loach</hi> or ſmall <hi>Gudgeon,</hi> you may take <hi>Pearch,</hi> and if poſſible always Trowl in Clear Water in a Windy Day, and
+<pb n="61" facs="tcp:65509:34"/>then a <hi>Gudgeon</hi> will do well for the <hi>Pike,</hi> but if a Dark, Cloudy Day, <hi>Roach, Dace</hi> or <hi>Bleak,</hi> are to be preferred.</p>
+               <p>To ſnare a <hi>Pike,</hi> when you perceive him riſe, and ſtaying near the Surface of the Water, faſten about a yard and a half of ſtrong Pack-thread to a Pole, and at the end of it, a running Nooſe of ſmall Wire, ſoftly put<g ref="char:EOLhyphen"/>ting it over his Head, with a quick Jerk throw him to Land; this is often done to Young <hi>Pikes,</hi> but the older are more wary, though ſometimes carch<g ref="char:EOLhyphen"/>ed by this means, eſpecially in Pends, as alſo when they come out of Rivers, and go a frogging in Ditches, in <hi>May, June</hi> and <hi>July.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="62" facs="tcp:65509:35"/>
+               <head>To Find and Angle for <hi>Pearch.</hi>
+               </head>
+               <figure>
+                  <head>Pearch</head>
+               </figure>
+               <p>THis Fiſh delights in a good Stream, of a moderate depth, abiding uſually cloſe by a hollow Bank, Pebbly, Gra<g ref="char:EOLhyphen"/>velly bottomed, with Green Weeds growing in it, being commonly a River Fiſh, he bites little in Winter, but in the middle of the Day, yet in Sum<g ref="char:EOLhyphen"/>mer all Day if the Weather be Cool and Cloudy, and the Wa<g ref="char:EOLhyphen"/>ter
+<pb n="63" facs="tcp:65509:35"/>ſhaken with the Wind, but more Freely from Seven till Ten in the Morning, and from Two in the Afternoon till Six, and ſometimes till Sun ſet, if in the middle of Summer, you muſt look to him when he is ſtruck, for he's a very ſtrong Fiſh, and will ſtruggle hard, and long; they generally go many toge<g ref="char:EOLhyphen"/>ther, and if there be a great many in a hole, if you light right on them, you may at one ſtanding, catch the greater part, if you give them time to Bite; for if you are too haſty in ſtri<g ref="char:EOLhyphen"/>king, you may chance to miſs your Aim, he takes almoſt all manner of Worms, as Dew-Worms, Red-Worms, Meadow-Worms, Cod-baits, alſo the <hi>Minow, Loach,</hi> ſmall Frog, Waſps, Hornets, and Humble-Bees.</p>
+               <pb n="64" facs="tcp:65509:36"/>
+               <p>He is beſt taken with a Float, reſting the Bait about ſix Inche<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the ground, and ſome<g ref="char:EOLhyphen"/>times he is taken about mid-water, ſome uſe a Ledger Bait on the ground, but the firſt depth has uſually the beſt ſuc<g ref="char:EOLhyphen"/>ceſs.</p>
+            </div>
+            <div type="part">
+               <pb n="65" facs="tcp:65509:36"/>
+               <head>To Angle for the Carp, <hi>&amp;c.</hi>
+               </head>
+               <figure>
+                  <head>Carp</head>
+               </figure>
+               <p>THis Fiſh has always been in great eſteem, and made many Induſtrious to find ways <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o take him. They delight in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>andy, or Muddy bottoms in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>till, Deep Water, and in Green <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Graſs growing under the water, by the ſides of the Pond <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r River, though in a good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ond they thrive beſt; they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re very wary, and hard to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atched; their firſt Spawning
+<pb n="66" facs="tcp:65509:37"/>time is about <hi>May day,</hi> breeding three times a year, and won<g ref="char:EOLhyphen"/>derfully increaſe if they like th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Water they are in, they li<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> long, though moſt diſagree a<g ref="char:EOLhyphen"/>bout their particular number <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Years, and indeed I ſee no rea<g ref="char:EOLhyphen"/>ſon how he ſhould be exact<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> known.</p>
+               <p>They bite very early in <hi>April, May, June, July</hi> and <hi>Auguſt</hi> and ſometimes all Night if th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Weather be hot, and Star ligh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Still deep Water, if yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Angle in the day time keep o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of ſight as much as may be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therefore provide a long Ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he is very ſtrong and muſt Pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when ſtruck, or he'll carry o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your Hook by breaking the Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or Rod.</p>
+               <p>Uſe always the Float a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Quill, Angle for him ſometim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="67" facs="tcp:65509:37"/>above, and ſometimes below <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id-water, as the Weather is, enough in Mid-water he is the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ertainlieſt taken, eſpecially in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pond, but in Rivers they are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery ſhy, lay a ground Bait for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <hi>Carp.</hi> with ground Malt.</p>
+               <p>The Baits you uſe on your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook muſt be Gentles, two or three on the Hook, then put a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttle ſquare bit of Scarlet on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etop of the Hook, above the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ait of Gentles, dipped in Oil <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the Rock, or Petre, this is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eld an excellent Bait; they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake likewiſe Bobs, Waſps, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>weet Paiſts, Marſh-worms, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lag-worms, Gilt-tails, Dew<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orms, the Cod-bait and Bread<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rain boiled ſoft; and in <hi>June</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <hi>July,</hi> in the heat of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay, they ſhew themſelves on <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e top of the Water, and often<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> among Weeds, then you
+<pb n="68" facs="tcp:65509:38"/>may take them with a we<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſcowred Lobworm, Angling <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with a Natural Fly, but in thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> caſe keep from their ſeeing you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as much as poſſible you can; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Carp</hi> is a numerous breeder, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spawning three or four times <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> year, therefore as a caution t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe that ſtock Ponds with them, let them be warm and ſe<g ref="char:EOLhyphen"/>cure from Cold Winds, fence<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by Trees, and the place allow<g ref="char:EOLhyphen"/>ing good feed, for otherwiſe the Pond being over ſtored they will ſtarve themſelves, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the other Fiſh that are pnt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with them.</p>
+            </div>
+            <div type="part">
+               <pb n="69" facs="tcp:65509:38"/>
+               <head>Obſervations on the <hi>Tench</hi> and the beſt way to Angle for him.</head>
+               <figure>
+                  <head>Tench</head>
+               </figure>
+               <p>THE <hi>Tench</hi> is accounted a very good Fiſh, and much cove<g ref="char:EOLhyphen"/>ted, yet he takes delight in Mud<g ref="char:EOLhyphen"/>dy or Foul Water, and among Weeds, the Ponds that are ſuit<g ref="char:EOLhyphen"/>able for <hi>Carp,</hi> pleaſe him better than the Rivers, and in Pits he thrives better than in either, if they be agreeable to time, though in ſome Pits they will
+<pb n="70" facs="tcp:65509:39"/>not, though they breed, com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to any bigneſs, and in ſome it i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> held they will not breed at all, but if any be put in they wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thrive wonderfully; but this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> believe may happen where the Storer is not skilful to diſtin<g ref="char:EOLhyphen"/>guiſh Males from Females, b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by an unlucky gueſs put in a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort, and though he co<g ref="char:EOLhyphen"/>vets Mud, yet his Fins are very large, and to know him from others, there are two little Barbs at the Angles or Corner, of his Mouth, his Scales are ſmall and ſmooth, and about his Eyes are Circles of a golden colour, he is accounted the Phyſitian to the reſt, ſo that the Devouring <hi>Pike,</hi> who being ſick is cured by him, will not, unleſs great hunger provoke, hurt or deſtroy him, though he ſpares not hisown kind. This Gift of healing is ſaid to be by a Medi<g ref="char:EOLhyphen"/>cinal
+<pb n="71" facs="tcp:65509:39"/>Balm, ſweating frôm his Skin, which the Sick Fiſhes take in as Phyſick, and indeed his Fleſh is good in Conſumptions, (or any Languiſhing of the parts) for Men. They Bite beſt from as ſoon as it is Light, to Eight in the Morning, and from Four in the Afternoon, till a quarter af<g ref="char:EOLhyphen"/>ter Sunſet, but in the hot Months, if the Weather be not Tempeſtuous, they many times Bite all Night, their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt ſea<g ref="char:EOLhyphen"/>ſon is, from the beginning of <hi>September,</hi> to the end of <hi>May,</hi> and about the beginning of <hi>Ju<g ref="char:EOLhyphen"/>ly</hi> the <hi>Tench</hi> Spawns.</p>
+               <p>He takes the Cod-bait, Marſh<g ref="char:EOLhyphen"/>worm, Gentle, Flag-worm, or Red-worm well ſcowred, and to make it take the better, you may dip your Bait in a little Tar Water juſt before you uſe it, though the plain Bait many
+<pb n="72" facs="tcp:65509:40"/>times pleaſes him well: For want of the former Baits, you may uſe Paſtes ſweetened with Honey, or Waſps.</p>
+               <p>Angle for him with a Float of Quill, letting the Bait into the Water two foot, ſometimes more or leſs, but no great mat<g ref="char:EOLhyphen"/>ter.</p>
+            </div>
+            <div type="part">
+               <pb n="73" facs="tcp:65509:40"/>
+               <head>The <hi>Bream</hi> his Haunts, and how to Angle for him.</head>
+               <figure>
+                  <head>Bream</head>
+               </figure>
+               <p>THE <hi>Bream</hi> is a Large but Bo<g ref="char:EOLhyphen"/>ny Fiſh, he is found in Ri<g ref="char:EOLhyphen"/>vers and Ponds, but in the latter if convenien, he delights beſt, he is long growing, and will be very fat, and is almoſt as great a Breeder as the <hi>Carp.</hi> The <hi>Breams</hi> ſwim divers together, eſ<g ref="char:EOLhyphen"/>pecially in a gentle ſtream, they
+<pb n="74" facs="tcp:65509:41"/>Love a Sandy or Clayey bottom and the deepeſt and broadeſt part of the Water, your beſt time in Seaſon, is to Angle for him from Sun-riſe to Eight a Clock in a moderate ſtream, the Water a little Slimy or Mud<g ref="char:EOLhyphen"/>dy, eſpecially when a good breeze troubles the Water, and in Windy Weather, if in a Pond, he generally keeps the middle, and there you are moſt likely to find him. In the Af<g ref="char:EOLhyphen"/>ternoon, your time is from Three or Four till Sun-ſet. But in a Darkiſh, Windy Day, he bites at any time.</p>
+               <p>He is Angled for with much ſucceſs, from the beginning of <hi>April</hi> till <hi>Michaelmas,</hi> and may be taken at other times except the very cold months.</p>
+               <pb n="75" facs="tcp:65509:41"/>
+               <p>He takes as Baits, Flag-worms, Waſps, Gentles, Graſhoppers their Legs being off, Red-worms, Gilt-tails, and Meadow-worms well ſcowered, Bobs, and under Water, Flies, eſpe<g ref="char:EOLhyphen"/>cially the Green ones; when he Bites, he runs off with the Bait to the further ſhoar, or as far that way as he can, and there<g ref="char:EOLhyphen"/>fore you muſt give him Play, for though he ſeems a Fiſh made ſtrong enough, he will not much ſtruggle, but after two or three turns he falls on one ſide, and may be eaſily landed.</p>
+               <p>Here you muſt Angle with a Float, ſo that the Bait may touch the Ground, you may make ground Bait for <hi>Bream,</hi> with Malt, and it will draw them together.</p>
+            </div>
+            <div type="part">
+               <pb n="76" facs="tcp:65509:42"/>
+               <head>The <hi>Barbel</hi> how to Find, and Take him by Ang<g ref="char:EOLhyphen"/>ling.</head>
+               <figure>
+                  <head>Barbel</head>
+               </figure>
+               <p>THis Fiſh is very ſtrong, and takes him name from the Barbs that hang at his Mouth, is curiouſly ſhaped with ſmall Scales. In the hot months you will find him in the ſwift ſtrong ſtreams, though he ſhuns the current, and delights ſomewhat more out of the Rapidity, un<g ref="char:EOLhyphen"/>der
+<pb n="77" facs="tcp:65509:42"/>ſhades of Trees, lurks under Trees that are fallen into the Water and Weeds, where they root in the Sands like a Hog, and ſo Neſt, ſome ſuppoſe him to Eat much Gravel and Sand, but I rather fancy he ſeeks for Inſects or other food, that Heat and Moiſture produces in the bottom of Shallows, yet ſome<g ref="char:EOLhyphen"/>times he is found in the deep and ſwift Waters, eſpecially at Wears, Bridges or Flood-gates, where he ſhelters among Piles, or in hollow places, holding by the Moſs or Weeds, to prevent his being carried away by the Stream, when Winter is coming on he retires to the ſtill Deep.</p>
+               <p>His beſt biting time is early in the Morning, That is, from the Sun Riſing, till Ten, and from Four till the Sun-ſets, and often later, and this principally
+<pb n="78" facs="tcp:65509:43"/>happens from the <hi>20th</hi> of <hi>May,</hi> to the latter end of <hi>Auguſt,</hi> you muſt be wary in taking him, for he is very ſubtil, and ſtruggles long, unleſs well managed, ma<g ref="char:EOLhyphen"/>ny are found together frequent<g ref="char:EOLhyphen"/>ly, but in <hi>April</hi> they are little worth, for then is the ſpawning time.</p>
+               <p>As for the Baits you intend to take him with, care muſt be had that they are very ſweet, and ſuch as give him not diſtaſt; Angle for him with a Float, and ſo let down the Bait that it may touch the Gravel; He takes Bobs, Humble-Bees, Gentles not over-ſcowred, Dew-worms, New-Cheeſe, Red-worms, Paſts, the young brood of Waſps, Hornets, and ſo cunning he is, that you will be cheated of ma<g ref="char:EOLhyphen"/>ny a Bait in Angling for him, if you do not have a watchful Eye,
+<pb n="79" facs="tcp:65509:43"/>and a quick hand, for he will Nibble and Such it off, and ten to one when your Float ſinks, and you attempt to ſtrike, whi<g ref="char:EOLhyphen"/>ther he has the Hook in his Mouth, yet often if you ſtrike the contrary way his Head lies, you may take him by the Noſe, and give him Play till tired, or elſe if he be any thing large, unleſs your Tackle be very ſtrong, part of it goes with him; he is not an over-pleaſant Fiſh to Eat, by reaſon he's ſome<g ref="char:EOLhyphen"/>what dry, and very full of Bones.</p>
+            </div>
+            <div type="part">
+               <pb n="80" facs="tcp:65509:44"/>
+               <head>The <hi>Trout</hi> his Haunts, beſt way to Angle for him, and his Baits.</head>
+               <figure>
+                  <head>Trout.</head>
+               </figure>
+               <p>TO be moſt ſure of finding the <hi>Trout,</hi> addreſs your Angle to ſmall Purling Brooks, or ſwift gliding Rivers, not too great, obſerve whether their bottoms are Pebble, Gravel or ſmooth Stones, for on the ſider of theſe he uſually has his Reſi<g ref="char:EOLhyphen"/>dence, though he is often found
+<pb n="81" facs="tcp:65509:44"/>in the deep, eſpecially a large one, alſo behind Banks, Blocks, Stones, at Turnings or Points, where the Stream much beats, or makes a kind of whirling, he loves coverture and ſhade, from whence he may moſt eaſily ſeize his Prey, but his hold or hole is uſually in deep places, he is ſeldom found among Weeds, rather among the boughs of Trees that hang in the Water or Shady Buſhes, he plies in Spring at the Tail of the Stream, but as many other Fiſh do, about the middle of <hi>May</hi> at the upper end, ſtaying long in a place, if his hold be near it, in the hot Weather, he leaves the deep, and goes into the ſharper ſtreams among Gravels, unleſs by the Exceſſive Heat of the Weather, droughts enſue, and then the ſtill deep delights him.</p>
+               <pb n="82" facs="tcp:65509:45"/>
+               <p>This <hi>Trout</hi> may be taken by dibbing, or if the Weather be Dark, Cloudy and Windy, you may taken him with the Caſt-fly, he is in ſeaſon from <hi>March</hi> till <hi>Michaelmas,</hi> but chiefly about the end of <hi>May,</hi> when he is in the beſt ſeaſon; his Body is adorned with red ſpots, the Female is accounted better than the Male, they much affect to be near the Source or Spring of Rivers, and where they run on Lime Stones, there the beſt <hi>Trouts</hi> are found.</p>
+               <p>Angle for him at the ground with a running Line, with two or three ſmall Pellets of Lead, omitting the Float, or you may take him by Float Angling at the ground, if you are dexte<g ref="char:EOLhyphen"/>rous at Angling with a ſingle Hair, two Links from you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hook, he is much ſooner take than with two or three Hairs
+<pb n="83" facs="tcp:65509:45"/>though you muſt be cautious he break not the Line, and this is better done at the bottom, than top, becauſe there he has not ſo much force to ſhoot and ſpring, as on the top, and a ſingle Hai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> next the Hook, if well choſen and ſtrong, will take one of 13 Inches, if there be Water-room, free from Wood and Weeds.</p>
+               <p>He Bites beſt in a Water that after a Flood is clearing, or ri<g ref="char:EOLhyphen"/>ſing, ſomewhat Troubled; Clou<g ref="char:EOLhyphen"/>dy and Windy Weather, early in the Morning is the beſt time from the middle of <hi>April,</hi> to the end of <hi>Auguſt,</hi> from Sun-riſing till near Eleven, and from two till Sunſet, but Nine in the Morning, and Three in the Af<g ref="char:EOLhyphen"/>ternoon are the beſt times<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at the Ground or Fly as the Water is moſt agreeable, in <hi>March,</hi> the
+<pb n="84" facs="tcp:65509:46"/>beginning of <hi>April, September,</hi> and till the fifteenth of <hi>October,</hi> and then you muſt ceaſe Angling for the <hi>Trout,</hi> to the end of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> after a ſhower has fallen in the Evening, you will find him riſe at a Gnat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> In warm weather you may dib for him with the Minow or Loach.</p>
+               <p>As for other Baits than what I have mentioned, the principal are at the Ground, Brandlings, Gilt-tails, Tag-tails, Meadow-worms, and for the greater, Dew-worms, well ſcowred, the two firſt hold him all the Sea<g ref="char:EOLhyphen"/>ſons, either in Muddy or Clear Waters, the reſt do well when the Water is diſcoloured with Rain, you may uſe a God-bait, either for Top or Bottom, but then it muſt be in Clear Water, he takes the Palmer-<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y or Wool-bed, and all ſorts of
+<pb n="85" facs="tcp:65509:46"/>Artificial and Natural Flies at the top of the Water. When you Bait with ſmall Fiſh, as the Me<g ref="char:EOLhyphen"/>now, Bull-head and Loach, cut off their Fins, and the Gills of the latter, and ſo with theſe In<g ref="char:EOLhyphen"/>ſtructions and a little practice to ripen Experience, depend on ſucceſs.</p>
+            </div>
+            <div type="part">
+               <pb n="86" facs="tcp:65509:47"/>
+               <head>The <hi>Eel</hi> their Haunt, Bait, and Taking them, <hi>&amp;c.</hi>
+               </head>
+               <figure>
+                  <head>Eel.</head>
+               </figure>
+               <p>THere is many diſputes about the Generation of <hi>Eels,</hi> whether they generate and breed as other Fiſh do, or proceed from Mud and Putrefaction, en<g ref="char:EOLhyphen"/>livened by Heat and Moiſture, but my buſineſs being to In<g ref="char:EOLhyphen"/>ſtruct you how to come by them, I ſhall lay no ſtreſs on that ni<g ref="char:EOLhyphen"/>cety,
+<pb n="87" facs="tcp:65509:47"/>ſince <hi>Eels</hi> there are, and for their delicacy, are called by ſome the Queen of Fiſh.</p>
+               <p>Their Haunts in the day time, are uſually under the covert of Tree Roots, Bruſh-wood, Planks, or Piles, about Flood-gates, Wears, or Mill-dams, in hollow holes in Banks, they moſtly de<g ref="char:EOLhyphen"/>light in foul. ſtill Water, or at leaſt ſuch as runs very ſlow, with Ouſey Sand, or Muddy Bottoms, in Pits, Ponds and Meers.</p>
+               <p>Bait for him with a young Lamprey, Dew-worms, ſcowr<g ref="char:EOLhyphen"/>ed Earth-worms, any very ſmall Fiſh their Fins cut off, Guts of Chickens or other Fowl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cut in ſmall lengths, Lean Beaf, the Brood of Waſps, the four firſt take him Day or Night, but
+<pb n="88" facs="tcp:65509:48"/>moſt of the reſt are propereſt for Night hooks.</p>
+               <p>Take him in the day by a Ledger Bait, by Snigling, Bob<g ref="char:EOLhyphen"/>bing, Brogling; as for Brogling and Snigling, the beſt method I have known is this, get a long and ſtrong Line, your hook of a ſmall compaſs, Baited with ſcoured Red-worms, or Dew-worms, having one end of your Line in your hand, place very eaſily the upper end of your Hook in the Cleft of a Hazle-Rod of convenient length, ſo that it may ſlip out as you pleaſe, and where you fancy the <hi>Eel</hi> to be, let the Bait leaſurely ſink, and ſuppoſing it ſwallowed by giving time leaſurely, draw him up by little and little, elſe lying double with the ſtrength of his Tail, your Line is endanger<g ref="char:EOLhyphen"/>ed.</p>
+               <pb n="89" facs="tcp:65509:48"/>
+               <p>This you muſt practiſe in hot weather, the Waters being low. As for</p>
+               <p>Bobbing, take large Earth-worms out of good Mould, ſcoure them well in Moſs, and run a ſtrong thread with a needle through them end-ways, as ma<g ref="char:EOLhyphen"/>ny as will lightly wrap a dozen times round your hand, make them into Links, and faſten them to a ſtrong Pack-thread or Whip-cord two yards or more long; make a knot about ſix or eight Inches from the Worms, put about three quarters of a pound of Plummet, made Pyramidi<g ref="char:EOLhyphen"/>tally on the Cord, by the means of a hollowneſs, or hole bored through it, and let it ſink to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>not, ſix the Cord to a manage<g ref="char:EOLhyphen"/>able Pole; Angle with this in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uddy or Cloudy Water in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ides of the Streams, or Deeps,
+<pb n="88" facs="tcp:65509:49"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="89" facs="tcp:65509:49"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="90" facs="tcp:65509:50"/>when the <hi>Eel</hi> or <hi>Eels</hi> Tug, let them be well faſtened by the Teeth, before you draw up, then do it gently, till on the top, and hoiſt them quickly then to Land; many by this way have been taken at a time.</p>
+               <p>Some near <hi>Eels</hi> haunts ſink a Bottle of Hay hooſly bound, ſtuffed with Fowls Guts and Li<g ref="char:EOLhyphen"/>ver cut in long ſhreads over<g ref="char:EOLhyphen"/>night, and coming Early the next Morning, drawing it up haſtily by the Rope faſtened to the Bank, find large <hi>Eels</hi> bedded in it for the ſake of the Prey. This may be done with a bundle of Bruſh-wood, out of which upon pulling up they cannot ſo eaſily get.</p>
+            </div>
+            <div type="part">
+               <pb n="91" facs="tcp:65509:50"/>
+               <head>To Angle, <hi>&amp;c.</hi> for the <hi>Grayling</hi> or <hi>Umber.</hi>
+               </head>
+               <p>THough this Fiſh has two Names given it, the for<g ref="char:EOLhyphen"/>mer for the leſſer ſort, and the latter for the greater, yet both are the ſame Species.</p>
+               <p>Their Haunts are in Marly Clay, Clear Water, and ſwift <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eams, the largeſt is account<g ref="char:EOLhyphen"/>ed eighteen Inches, being in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſon all the year, but their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rime is <hi>December,</hi> when his Gills and Head are Blackiſh, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd his Belly a dark Gray, ſtud<g ref="char:EOLhyphen"/>ied with Black ſpots, he will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ite freely, but is very tender-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>outhed, therefore be careful <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> break not hold, though he
+<pb n="92" facs="tcp:65509:51"/>will not ſtruggle much, as being very faint when he is hooked, Angle for him, in or near the middle of the Water, for he's always more apt to riſe than de<g ref="char:EOLhyphen"/>ſcend, wherefore he is rarely ta<g ref="char:EOLhyphen"/>ken by a Ground Bait, rather than a running Line, uſe for him a Float of Cork, if you par<g ref="char:EOLhyphen"/>ticularly Angle for him, but for <hi>Grayling</hi> and <hi>Trout</hi> the running Line is the beſt.</p>
+               <p>As for Baits, he takes Brand<g ref="char:EOLhyphen"/>lings, Gilt-tails, Meadow-worms Tag-tails, the Bark-worm, Flag-worm, Meadow-worm, Co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> bait, Natural or Artificial Flie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> particularly the Camlet Fly and Fly made of Purple Woo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and one made of Tawny Cham<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> let Hair, alſo the Earth-b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Clap-bait.</p>
+            </div>
+            <div type="part">
+               <pb n="93" facs="tcp:65509:51"/>
+               <head>The <hi>Pope</hi> or <hi>Ruff,</hi> his Haunts, how to Angle for him, with proper Baits, <hi>&amp;c.</hi>
+               </head>
+               <p>THE <hi>Pope</hi> or <hi>Ruff,</hi> is one be<g ref="char:EOLhyphen"/>ing in Shape, Nature and Diſpoſition, like the <hi>Pearch,</hi> though in bigneſs not exceeding a large <hi>Gudgeon,</hi> but of a more pleaſing taſte, he bites Eager<g ref="char:EOLhyphen"/>ly, and many of them are uſual<g ref="char:EOLhyphen"/>ly together, where the Water runs ſlowly and is deep in San<g ref="char:EOLhyphen"/>dy places, fifty of them have been taken at a ſtanding. You may Bait him with the ſmall Red-worm, Gilt-tal, Meadow-worm, and other Baits proper for the <hi>Pearch,</hi> he biting at the
+<pb n="94" facs="tcp:65509:52"/>ſame time the <hi>Pearch</hi> do's; yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may ground Bait with new turn<g ref="char:EOLhyphen"/>ed up Earth of a Fallow, as alſo with a Clear Sand, you may take him with a ſingle Hair, the Link next the Hook, the Body of i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is rough, and hath prickly, and ſharp Fins; it has its Seaſon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Nature like the <hi>Pearch,</hi> and is a very wholeſome Fiſh, eating ſhort and tender.</p>
+            </div>
+            <div type="part">
+               <pb n="95" facs="tcp:65509:52"/>
+               <head>The <hi>Bleak</hi> or <hi>Bley,</hi> to Angle for him, <hi>&amp;c.</hi>
+               </head>
+               <p>THis Fiſh makes ſport, though not much valued, as not being very wholeſome, it is ma<g ref="char:EOLhyphen"/>ny times deſtroyed by a Worm that breeds in its Stomach in hot Weather, he bites eagerly, and you may Fiſh for him with ſeveral Hooks on one Line, and if you catch three or four toge<g ref="char:EOLhyphen"/>ther on the ſeveral Hooks, not fear the breaking of your Line, tying them about half a foot one above the other, he is eaſily ta<g ref="char:EOLhyphen"/>ken with Gentles, ſmall Red-worms, and the Dub<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fly which muſt be of a ſad brown; Angle at middle Water, or at the Top,
+<pb n="96" facs="tcp:65509:53"/>for he is uſually in motion; There is another ſort of theſe, called the <hi>Sea-Bleak,</hi> better and wholeſomer than this, called by ſome the <hi>Sea-Camelion,</hi> be<g ref="char:EOLhyphen"/>cauſe in the Water he ſeems of<g ref="char:EOLhyphen"/>ten to change his colour.</p>
+            </div>
+            <div type="part">
+               <pb n="97" facs="tcp:65509:53"/>
+               <head>The <hi>Chub</hi> or <hi>Chevin</hi> his Haunts, and to Angle for him.</head>
+               <p>THE <hi>Chub</hi> though large, is a very timerous Fiſh, he is found in large Rivers, having Sandy or Clayey bottoms, de<g ref="char:EOLhyphen"/>lights much in Streams ſhaded with Trees, as alſo in holes, where many of them conſort together, he is in ſeaſon from the middle of <hi>May</hi> till after <hi>Can<g ref="char:EOLhyphen"/>dlemas,</hi> you may take him with dibbing on the top of the Water, but in the hot Months he keeps Mid-water, in the colder Wea<g ref="char:EOLhyphen"/>ther Angle at the bottom with the Ledger Bait.</p>
+               <pb n="98" facs="tcp:65509:54"/>
+               <p>He bites from Sun Riſing till Eight, and from Three till Sun<g ref="char:EOLhyphen"/>ſet, the large one when ſtruck is ſooneſt tired, the leſs will ſtruggle longer, and in Sun<g ref="char:EOLhyphen"/>ſhiny Weather they bite, in Winter the middle of the Day.</p>
+               <p>He ſcarcely refuſes any bait, if not too large, as Lamprys-Pride, the Eels-Brood, Dew-worms, lange Red-worms ſcow<g ref="char:EOLhyphen"/>red in Moſs and Gravel, Clap-Baits, ſmall Snails, White and Black Cheefe Paſte, the Marrow of an Ox or Cows back, a Beetle with the Legs off, all ſorts of Baits bred on Trees, Plants and Herbs, Cod-baits, Brood of Waſps, Hornets and Humble-Bees, the Fat of Ruſty Bacon, Dors, Graſhoppers, al<g ref="char:EOLhyphen"/>ſo Rasberries, Black-Berries, Mulberries, a Fly, and a Cod-bait,
+<pb n="99" facs="tcp:65509:54"/>and an Oak-worm on the Hook together, infallibly takes him in the hot months.</p>
+               <p>When he is taken he muſt be eaten the ſame Day, or is little worth, moſt eſteem his Head the beſt part.</p>
+            </div>
+            <div type="part">
+               <pb n="100" facs="tcp:65509:55"/>
+               <head>
+                  <hi>Dace</hi> or <hi>Dare,</hi> and <hi>Roach,</hi> their Haunts, Baits, and how to Angle for them.</head>
+               <p>THeſe delight in Ponds or Ri<g ref="char:EOLhyphen"/>vers with Gravelly bot<g ref="char:EOLhyphen"/>toms or Sand, they love deep Clear Waters, ſhaded with Trees, either in Rivers, or elſe<g ref="char:EOLhyphen"/>where; the <hi>Dace</hi> Spawn about the middle of <hi>March,</hi> and are in ſeaſon three Weeks after; the Fleſh is ſoft and ſweet in taſte, and in <hi>Italy</hi> they are pickled as Anchovies.</p>
+               <p>You muſt Angle for the <hi>Dace,</hi> within two Inches of the bot<g ref="char:EOLhyphen"/>tom, and ſometimes the Bait
+<pb n="101" facs="tcp:65509:55"/>may touch it if it be with Worms, but with Flies, at the Top of the Water, or within an Inch.</p>
+               <p>The <hi>Roach</hi> Spawns about the middle of <hi>May,</hi> and is ſo health<g ref="char:EOLhyphen"/>ful, that his Soundneſs has created an uſual ſaying, though often cauſes ſome to tell Lies: the beſt <hi>Roach</hi> by reaſon of the abundance of Soil are found in the <hi>Thames</hi> near <hi>London;</hi> Angle for him abo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t two foot in the Water, and in Temperate Wea<g ref="char:EOLhyphen"/>ther they bite all day long, the Float Angle takes them beſt.</p>
+               <p>Their Baits are numerous as their Fry, as Worms bred on Trees, Plants, Herbs, Gentles, Cod-baits, Graſhoppers with the Legs off, Flies Artificial or Natural; particularly the Ant<g ref="char:EOLhyphen"/>fly, Meadow-worms ſcowred,
+<pb n="102" facs="tcp:65509:56"/>Bread-Corn boiled; the <hi>Roach</hi> in Ponds is chiefly found under the Water-docks, if there be any, and indeed few ſmall come amiſs to them.</p>
+            </div>
+            <div type="part">
+               <pb n="103" facs="tcp:65509:56"/>
+               <head>The <hi>Flounder</hi> or <hi>Flook,</hi> his Haunts, Baits, and Angling.</head>
+               <p>THis is properly a Salt-Water Fiſh, no where but in Ri<g ref="char:EOLhyphen"/>vers that have Communication with the Sea, and is firſt brought up by the Tide looſing, and him<g ref="char:EOLhyphen"/>ſelf in freſh Streams, he after ſome time minds not his way back again; they love Gentle ſtreams, Gravelly and Sandy bottoms, are very ſhy, and not eaſily taken, they bite all the Day, <hi>May, June, July,</hi> and the beginning of <hi>Auguſt,</hi> though he will Nibble much about the Hook, and ſuck off the Bait, if you be not wary to keep it in
+<pb n="104" facs="tcp:65509:57"/>motion, which hinders him from ſeeing the Hook, if he do, a<g ref="char:EOLhyphen"/>way he flies from it, ſometimes he's in the Deep, and ſome<g ref="char:EOLhyphen"/>times in the Shallow, he takes ſcowred Meadow or Marſh-worms, Earth-worms, Gentles, the Brook of Waſps, Gilt-tails and Brandlings, he is to be Angled for with the Float, and your Bait muſt touch the ground.</p>
+            </div>
+            <div type="part">
+               <pb n="105" facs="tcp:65509:57"/>
+               <head>The <hi>Minow,</hi> or <hi>Pench, Loach,</hi> and <hi>Bull-head</hi> or <hi>Millers Thumb, Lampreys.</hi>
+               </head>
+               <p>THeſe are rather Baits for other Fiſh than of any va<g ref="char:EOLhyphen"/>lue in themſelves. The firſt is taken with ſmall Worms, Brand<g ref="char:EOLhyphen"/>lings, and Gilt-tails; the two latter with Gilt-tails, Meadow-worms at the Ground; <hi>Lam<g ref="char:EOLhyphen"/>preys</hi> are taken as the <hi>Eel,</hi> being much of that nature, therefore I omit for brevities ſake to be tedious on theſe.</p>
+            </div>
+            <div type="part">
+               <pb n="106" facs="tcp:65509:58"/>
+               <head>Obſervations on, and Rules for Natural Fly-Ang<g ref="char:EOLhyphen"/>ling.</head>
+               <p>THis is a choice point in Ang<g ref="char:EOLhyphen"/>ling, requiring a quick Eye, and wary Hand; it is termed by Artiſts Dibling, Di<g ref="char:EOLhyphen"/>bing, or Dapeing, and is per<g ref="char:EOLhyphen"/>formed on the Surface of the Water, or at moſt ſometimes, not letting the Bait ſink above two or three Inches under, not that, unleſs the Oak-fly, for the <hi>Chub</hi> or <hi>Trout,</hi> has joined to it, a Clap-bait or Cod-bait.</p>
+               <p>This muſt ever be done i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Clear Water, without Lead or Float, in the Evening of a Hot Day, or in a Hot Calm day is
+<pb n="107" facs="tcp:65509:58"/>beſt, and the Still D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ep is to be preferred before the Stream, though on the ſide of a Stream, when the Water is Clearing af<g ref="char:EOLhyphen"/>ter great Rains, or a Flood, is very proper, and all hours you may Dib with the Green Drake-fly, and if you needs muſt do't in the Stream, uſe the Stone-fly, which is proper Early and Late, but if in the Evening it is Win<g ref="char:EOLhyphen"/>dy, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake the Artificial Stone-fly, which I ſhall teach you to make; for then in the Stream the Fiſh, riſe the beſt, and are ſooneſt taken, and if you pull off the Wings, you may Angle in the Water with it, and it will take very much in a Stream near the bottom, you muſt in this caſe obſerve to keep out of ſight, as much as may be, and keep your Fly moving, that it may appear to the Fiſh to be alive.</p>
+               <pb n="108" facs="tcp:65509:59"/>
+               <p>In Dibbing for <hi>Dace, Roach</hi> or <hi>Chub,</hi> let not your motion be ſwift, if you can perceive any of them coming towards it, but make two or three ſhort re<g ref="char:EOLhyphen"/>moves, as if there were a Reſt, or the-Fly were Swimming or Playing, then let it gently glide with the ſtream if poffible to<g ref="char:EOLhyphen"/>wards the Fiſh, but if it be ſlo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or ſtanding Water, you muſt keep it moving with your hand, not juſt upon him, but ſide-ways and ſloaping by him, this leaſt it ſhould eſcape him, will make him mind it the more, for only the <hi>Trout,</hi> if it be moved ſwift<g ref="char:EOLhyphen"/>ly, will of any certainty follow it.</p>
+               <p>In a Calm Dibbing it is not ſo ſure, as when a pretty good Gale ſtirs the Water, for then nei<g ref="char:EOLhyphen"/>ther you, nor the deceit put o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Fiſh by an Artificial Fly, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="109" facs="tcp:65509:59"/>ſo eaſily diſcovered, and then few Natural Flies at liberty can lye on the Water, and for want of choice, they will Snap at the firſt that comes in their way, and bite more eager for hunger; and if they will not riſe at the Top, try them a little lower, for ſome will be ſooner taken, as the <hi>Roach,</hi> particularly by Dibbing under the Water than at top; <hi>Roach, Dace</hi> and <hi>Chub</hi> will ſometimes be pleaſed with an Artificial Fly, eſpecially if an Earth-bob, Cod-bait, Earth-worm, or Gentle, be put on the point of the Hook, or an Oak-worm, is very pleaſing on the Top or under the Water.</p>
+               <p>At Dibbing and Trayling, <hi>Trout</hi> and <hi>Salmon-Smelts</hi> will take an Artificial Fly well, particu<g ref="char:EOLhyphen"/>larly the Stone-fly and Green-drake, Early, or Late in the
+<pb n="110" facs="tcp:65509:60"/>Evening; and if you for <hi>Salmon-Smelt, Roach, Chub</hi> or <hi>Dace,</hi> with the Dub-fly, put on a Gentle, Waſp, Cod-bait or Clap-bait, let it ſtand well on the point of your Hook, when the Wind Furls the Waters, and few Flies appear on it, or over it, is the beſt time to Angle with the Fly Natural or Arti<g ref="char:EOLhyphen"/>ficial; for then having no va<g ref="char:EOLhyphen"/>riety of choice, they will quick<g ref="char:EOLhyphen"/>ly take your Bait; if it be a Sun<g ref="char:EOLhyphen"/>ſhiny day, get under the ſhade of Trees if you can, that neither the ſhadow of your Body, nor Rod may appear in the Water to fright them away; if you find the Fiſh riſe not at top, ſink your Fly by degrees, and try even to middle-water, and before the ſorts of Flies are na<g ref="char:EOLhyphen"/>turally in ſeaſon, the Fiſh very rarely riſe at them, therefore to know this, that you miſtake
+<pb n="111" facs="tcp:65509:60"/>not in your Baiting, obſerve what Flies are on the Water, or flying near over it, or are on the Buſhes or Trees, of Ponds and Rivers, and that Fly that Swarms there moſt, is chief in Seaſon, and is to be uſed either Natural, or to be imitated by Artifice; ſome open the firſt Fiſh they take, and look in its Stomach to ſee what indigeſted Food there remains, and from that take their meaſures, tho' uncertain; for either it muſt be partly conſumed, or ſo diſcolou<g ref="char:EOLhyphen"/>red that it cannot well be known, and alſo Fiſh for Extream hun<g ref="char:EOLhyphen"/>ger, take in ſuch Food at one time, as at another they alto<g ref="char:EOLhyphen"/>gether diſlike.</p>
+               <p>You may for other Baits found in Rivers, grope in the Sand, Bank-ſides within the Water, under the Stones, or obſerve
+<pb n="112" facs="tcp:65509:61"/>what Inſects are Playing, or Swimming in, or on the Surface of the Water, and ſo accordingly provide your ſelf with ſeaſonable Baits. In <hi>May</hi> you may Dibb with Oak-flies, Fern-flies, or Oak-worms for <hi>Trout,</hi> and all Summer with the Fern-fly for <hi>Chub,</hi> keeping the Bait moving on the Top of the Water, as if it were alive, and your ſelf out of ſight, as much as poſſible it may be.</p>
+            </div>
+            <div type="part">
+               <pb n="113" facs="tcp:65509:61"/>
+               <head>Artificial Fly Angling.</head>
+               <p>ARtificial Dub-fly or Caſt-fly Angling, is ſomewhat more difficult, and requires more cunning than the former, and is more perfectly Learned by ſeeing it done, than by Print<g ref="char:EOLhyphen"/>ed directions, however I doubt not but to give a ſatisfactory ac<g ref="char:EOLhyphen"/>count of it to the Angler.</p>
+               <p>The firſt thing to be mate<g ref="char:EOLhyphen"/>rnally conſidered is, to know and chuſe the proper colours of Flies in Seaſon when you Angle, and theſe muſt be proportioned to the places you Fiſh in; for there are different Haunts of Flies, and are found much ear<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er in ſome places than in others,
+<pb n="114" facs="tcp:65509:62"/>as the Seaſon proves Hot or Cold; a warm Spring brings them early, but the contrary later, ſometimes by a Month, and always ſooner in high grounds, than in thoſe that are Low and Marſhy, or Boggy.</p>
+               <p>And though ſometimes upon diſguſt, Fiſh ſuddenly change their Fly, yet it is not uſual, until they have been glutted with one ſort, and that muſt be ſome days firſt, and when that ſort of Fly is near going out. Nor will they freely take them till they are at their beſt an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt plentiful, and it alway<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> follows, when one ſort goes out, another comes in, which you muſt have a ſpecial regar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> well to note, and make th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> change with them.</p>
+               <pb n="115" facs="tcp:65509:62"/>
+               <p>The Fly required being found, your next buſineſs is, to make one in Colour, Shape, Propor<g ref="char:EOLhyphen"/>tion of Body and Wings, as like it as poſſible, always having the Natural one as a Pattern; and to do this, you muſt have in readineſs Bears-hair of divers Colours, Camels hair, Sad, Light, and of middle indiffe<g ref="char:EOLhyphen"/>rent Colour, Badgers hair, Spaniels hair, Sheeps wool, Dogs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>air, Hog Down, ſuch as is Combed from the Roots or Bri<g ref="char:EOLhyphen"/>ſties of a Hog, Camblets and Mohairs of divers Colours, Cows hair, Abortive Calves, and Colts hair.</p>
+               <p>Furs of Squirrels Tails, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ails of Black Cats, Yellow and Dun Cats, of Hares Necks, the Fern Colour Ferrets Fur, Martins, Yellow Fur, Filmers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur, the Tails of White Weaſles,
+<pb n="116" facs="tcp:65509:63"/>Moles, Black Rabbets, Down of a Fox Cub, Aſh-colour at the. Roots of Fox, Fur that comes off the Otter, and Otter Cub, Blackiſh and Brown Bad<g ref="char:EOLhyphen"/>gers hair, that has been in a Skinners Lime-Pit.</p>
+               <p>Hackles or Feathers about a Cock or Capons Neck, and ſuch as hang looſely down on each ſide the Tail, of various colours; particularly to make the Palmer-fly, or Inſect called the Wool<g ref="char:EOLhyphen"/>bed, you muſt have Feathers of all ſorts of Fowl, and thoſe co<g ref="char:EOLhyphen"/>loured Feathers required that you cannot get natural, you may dye.</p>
+               <p>You muſt alſo have Caddows or Blankets, out of which are got good Dubbings, ſo of C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſhions made of Abortive Skin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Calves and Colts, like Silver
+<pb n="117" facs="tcp:65509:63"/>Wire, Gold Twiſt, Silver Twiſt, White and Yellow Bees<g ref="char:EOLhyphen"/>wax, for Ground Work, or to frame the Bodies and Heads on, as the Nature of the Fly more or leſs requires it, and a ſharp pointed neat pair of Sciſſars, to trim and ſhape your Work.</p>
+            </div>
+            <div type="part">
+               <pb n="118" facs="tcp:65509:64"/>
+               <head>How to make the Dub-Fly.</head>
+               <p>WET your Materials to know how they will hold Colour, for though dry they may appear of the right Colour, yet Wet they may al<g ref="char:EOLhyphen"/>ter, and be too Light or too Dark this done, take the Hook in your Left Hand, between your Fore-ſinger and Thumb, the Shanks back upwards, take ſtrong Silk of that Colour the Fly requires and Wax it with Wax of the ſame Colour, and ſo draw it to the Head of the Shank, betwixt your Finger and Thumb, and whip it about the bare hook two or three times; draw your Line between
+<pb n="119" facs="tcp:65509:64"/>your Thumb and Finger, hold<g ref="char:EOLhyphen"/>ing the Hook ſo faſt, that it may only have ſpace to paſs by, ſo joining the Hook and Line, put on the Wings, faſhion the Body and Head, by twiſting the Dubbing on your Waxed Silk, and Lapping it on, ſo Work it by degrees up towards the Head, and part the wings of an even length, or the Fly will not Swim upright; then turn it into a proper ſhape, by nipping off the ſuperfluous Dubbing from the Silk, ſo faſten and accouter your Fly: It would be well to ſee one done by an Experienced Angler, and then theſe Directi<g ref="char:EOLhyphen"/>ons will be eaſie to you.</p>
+            </div>
+            <div type="part">
+               <pb n="120" facs="tcp:65509:65"/>
+               <head>Directions relating to Dub<g ref="char:EOLhyphen"/>flies, and Angling with them.</head>
+               <p n="1">1. WHen you proportion your Dub-fly, confi<g ref="char:EOLhyphen"/>der the largeneſs or littleneſs of the Fiſh you intend it for, and be ſure the Belly of it is of the exact colour, becauſe it is moſt obvious.</p>
+               <p n="2">2. Let not the Tail of the Fly be only to the bend of the Hook, and not come unto the bent of it.</p>
+               <p n="3">3. If the <hi>Trout</hi> at the top of the Water refuſe it, the day is not proper for it, or the Fly either out of ſeaſon or ill made.</p>
+               <pb n="121" facs="tcp:65509:65"/>
+               <p>When you Angle with the Dub-fly, it muſt be in ſuch a River or Water which is clear, after Rain, or in a River a little diſcoloured with Moſs or Bogs, in Mooriſh places, or elſe in a Cloudy, Gloomy Day, when the Water is ſtirred by gentle Gales; or if the Winds be pretty high, they will riſe in the plain Deep, but in little Wind, the beſt is to Angle in the Stream.</p>
+               <p>Keep your Fly in continual Motion in all Weathers, to pre<g ref="char:EOLhyphen"/>vent the Fiſh from diſeerning the fraud; in clear and low Wa<g ref="char:EOLhyphen"/>ter let the Body of the Fly be the ſmaller, and the Wings very ſlender. In dark Weather and thick Water, let the Fly be of a darkiſh colour, but it muſt be pretty large Body and Wings, the better to be diſcovered;
+<pb n="122" facs="tcp:65509:66"/>in a clear day, a light colour<g ref="char:EOLhyphen"/>ed Fly is preferrible.</p>
+               <p>A Rod for the Dub-fly ſhould be five yards at leaſt, and the Line about ſeven, or ſomewhat more, if the Water be free from Incumbrance of Weeds, <hi>&amp;c.</hi> and to adapt your Fly to the colour of the Water more pro<g ref="char:EOLhyphen"/>perly, have three of the ſort, the one Light, the next a de<g ref="char:EOLhyphen"/>gree Darker, and the third the true colour of the Natural Fly, by trying all which, you may gain the more Experience, for one of them cannot well miſs. In ſlow Rivers, Muddy and Sli<g ref="char:EOLhyphen"/>my bottomed in great Draughts expect little ſucceſs, but rather chuſe Pebbly, Sandy or Stony bottoms, in a running Stream, which much Cools and Refreſhes the Fiſh in the hot months.</p>
+               <pb n="123" facs="tcp:65509:66"/>
+               <p>Let your Eye be ſteady on what you are about, and your hand ready to ſtrike when it is convenient, which is with the riſing of the Fiſh; or the find<g ref="char:EOLhyphen"/>ing his miſtake will throw out the Hook again: But for a great Fiſh, moſt hold it proper to let him turn his Head with the Bait, which will leſs ſtrain your Tacke, for ſo he will ſtrike him<g ref="char:EOLhyphen"/>ſelf, and then do it moderate<g ref="char:EOLhyphen"/>ly.</p>
+               <p>Upon Caſting, do it with a little circling about your Head, by waving the Rod: or elſe the Fly may with too ſmart a yerk be apt to ſnap off, Caſt the Fly behind a <hi>Trout</hi> at his riſing, and ſo with a gentle hand draw it over his Head, ſo that not ſca<g ref="char:EOLhyphen"/>ring him, he will quickly take it if it be the right colour.</p>
+               <pb n="124" facs="tcp:65509:67"/>
+               <p>In Caſting, obſerve to do it always before you, that it may fall on the Water, and no part of the Line daſh to ſcare away the Fiſh; and do it if you can without making any circling in the Water: But if the Winds be high, ſome part muſt be in the Water to keep the Fly from being blown out. Take your ſtanding ſo, if poſſible, that the Sun may be in your Face, and the Wind to your Back.</p>
+               <p>In Still or Slow Water, caſt your Fly almoſt a croſs the Ri<g ref="char:EOLhyphen"/>ver or Pond, and draw it to<g ref="char:EOLhyphen"/>wards you gently a little way, that you break not the Water, or put it into trouble, and let it bear with the Current if there be any, Fiſhing down<g ref="char:EOLhyphen"/>wards and not upwards of the River. Thus having as I hope
+<pb n="125" facs="tcp:65509:67"/>given plain Inſtructions in theſe matters, to be underſtood by eaſie Capacities, I proceed to deſcribe Artificial Flies, for the proper Month of Angling with them.</p>
+            </div>
+            <div type="part">
+               <pb n="126" facs="tcp:65509:68"/>
+               <head>Artificial Flies proper in the Month of the Fiſh<g ref="char:EOLhyphen"/>ing Seaſon, how to make them.</head>
+               <p>
+                  <hi>Febr.</hi> THE Palmer-fly or Plain Hackle muſt have a rough black body, which may be done with black Spaniels hair, or the Whirl of an Eſt<g ref="char:EOLhyphen"/>ridge Feather, and the red Hackle of a Capon, all over.</p>
+               <p>The Prince Dun, this may be Dubbed of the Down of a Fox Cub, with Aſh-coloured Silk, the Wings of a Stares Fea<g ref="char:EOLhyphen"/>ther, this muſt be made little.</p>
+               <pb n="127" facs="tcp:65509:68"/>
+               <p>The little Red, Brown Dub, with the ſofteſt hair on the black ſpot of a Hogs Ear, the Wings of Mallards Feathers near white, wrap it on with red Silk.</p>
+               <p>
+                  <hi>March.</hi> The Green-tail may be made of the brown-hair of a Spaniel, taken from the out-ſide of the Ear, and a little from the extream of the Tail.</p>
+               <p>Moriſh brown, may be Dub<g ref="char:EOLhyphen"/>bed with Black Sheeps Wool, Red Silk, and the Wings made of a Partridges Wing Fea<g ref="char:EOLhyphen"/>ther.</p>
+               <p>Thorn-tree-fly Dub of a very good black, and mix a little Iſa<g ref="char:EOLhyphen"/>bella coloured Mohair; with it make a little body, and the Wings of a Mallards brighteſt Feathers.</p>
+               <pb n="128" facs="tcp:65509:69"/>
+               <p>The early bright brown, make of the Hair of a brown Spaniel, that of the flank of a Red Cow, and Wing it with the Grey Feather of a Wild Duck.</p>
+               <p>
+                  <hi>April.</hi> The Violet-fly which takes excellently from the ſixth to the tenth, make of Bears hair a light Dun, mixed with Violet Stuff, Wing it with the greaſie Feathers of a Mallard: The Horſe-fleſh fly, which laſts all this Month, Dub with Pink colours, Blew Mohair, and Red Tammy, let the Head be dark brown, and the Wings of a light colour.</p>
+               <p>The ſmall bright Brown, is very well taken in a clear Day and Water, make it of Spaniels Fur with a light Grey Wing.</p>
+               <pb n="129" facs="tcp:65509:69"/>
+               <p>
+                  <hi>May.</hi> The Green Drake an excellent killer, Dub on a large Hook with Camels hair, bright Bears hair, ſoft Down combed from the Briſtles of a Hog, mix yellow Camlet; let the B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy be long, and Rib it with green Silk mixed with yellow; let the Whisks of his Tail be the long hair of Sables, his Wings, the light grey Feather of a Mallard died yellow.</p>
+               <p>The Stone-fly Dub, with Dun Bears hair, mix it with a little brown and yellow Camlet, that ſhe may be yellower on the Belly and Tail, than in any other part, to be the better liked by the Fiſh, who moſtly Eyes the Belly of Baits; and to adorn it the more, place two or three hairs of the Beard of a Black Cat, on the top of the Hook, in the Whipping or Arming, and in
+<pb n="130" facs="tcp:65509:70"/>warping on your Dubbing, ſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ring one from another ſomething upright, Rib her with yellow Silk, make the Wings long and large, of the dark grey Feather of a Mallard, or other ſuch like Feather.</p>
+               <p>The Grey Drake comes in when the Green one goes out, much of ſhape with it, but in colour differs, and muſt be made of a paler and more blewiſh yel<g ref="char:EOLhyphen"/>low and green, his Ribs quite down his body muſt be of black, with black ſhining wings very thin, and may be made of the grey feathers of a Mallard, the Down under Hogs Briſtles, the black Hair of a Spaniel, and the Whisks of his Tail, of the Beard of a Black Cat.</p>
+               <p>
+                  <hi>June.</hi> The Ant-fly is dubbed with brown and red Camlet, the Wing of the Feathers of a light-grey Pidgeon.</p>
+               <pb n="131" facs="tcp:65509:70"/>
+               <p>The Purple-fly, with Purple Wool, mixed with light brown Bears Hair, the Wings of a Stares Feather, Dub it with Purple Silk.</p>
+               <p>The brown Hackle make of the lighteſt brown Hair, of a ſomewhat grown Colt, with a red Hackle or Cocks Neck-feather over it, warped with hair co<g ref="char:EOLhyphen"/>lour or Aſh coloured Silk.</p>
+               <p>
+                  <hi>July.</hi> Orange-fly, Dub this with Orange coloured Cruel or Wool, and the Feathers of a Black-Birds Wing.</p>
+               <p>The Waſp-fly. Do this with brown Dubbing, or elſe of the Hair of a black Cats tail; rib it with yellow Silk, and make the Wings of the grey Feather of a Mallard's Wing.</p>
+               <p>The blew Dun muſt be made with the Down of a Water Mouſe, and the blewiſh Dun found on an old Fox, mix them
+<pb n="132" facs="tcp:65509:71"/>well together, and Dub with ſad Aſh coloured Silk, the Feathers of a Stares Quill, will furniſh you with Wings.</p>
+               <p>
+                  <hi>Auguſt.</hi> The late Ant-fly may be Dubbed of the Hair of a Cow, that is of a blackiſh brown, and for the tagging of the Tails wrap in ſome red, and make the Wing of a dark Feather, this Fly takes admirably.</p>
+               <p>The Fern-fly muſt properly be Dubbed with the Wool taken from a Hares Neck, of the co<g ref="char:EOLhyphen"/>lour of Fern, when dry, make the Wings of the darkiſh grey Feather of a Mallard.</p>
+               <p>The Hearth-fly, Dub of the Wool of an aged Black Ewe, with ſome Grey Hair to accom<g ref="char:EOLhyphen"/>modate the Body and Head, Dub with black Silk, and take the
+<pb n="133" facs="tcp:65509:71"/>light Feather of a State for the Wings.</p>
+               <p>
+                  <hi>September.</hi> The little blew Dun, make of the Fur a Water-Mouſe, Dub it with ſad Aſh-coloured Silk, and Wing it with the Feather of a blew Pidgeon.</p>
+               <p>The late Badger, do this with Badgers Hair that is Black, whip with red Silk, and uſe a darkiſh grey Mallards Feather for the Wings.</p>
+               <p>The Camel brown-fly, pull out for Dubbing, the Hair in the Lime of an old Wall, whip it with red Silk, make the Wings of a Stares lighteſt Feather.</p>
+               <p>
+                  <hi>October.</hi> This Month is ſup<g ref="char:EOLhyphen"/>plied by the Flies of the former, for all being now upon their go<g ref="char:EOLhyphen"/>ing away, any almoſt will do.
+<pb n="134" facs="tcp:65509:72"/>And thus Reader keeping to my intended Brevity, I have ſingled you out the beſt killing Flies from a great many more, and by knowing how well to make theſe, you may ſoon imitate all others, by having a Natural Fly before you, and chuſing your materials ſuitable to her colour, and ſhape her as you ſee the other, and then promiſe your ſelf ſucceſs in Angling with her as directed.</p>
+            </div>
+            <div type="part">
+               <pb n="135" facs="tcp:65509:72"/>
+               <head>Various, but very Curious Obſervations on Angling divers ways of Angling not commonly known.</head>
+               <p>NOte that ſometimes all ſorts of Fiſh take Baits at the ground? when but ſome ſorts will take the Fly at the Top of the Water; and therefore to Angle for a <hi>Trout</hi> with a Worm, chuſe the running Line without any Float, only ſmall Plummets in their proper places. This is ſucceſsful at the ground either in Clear or Muddy Water.</p>
+               <p>As for the latter, uſe a Line a little more than half the length of the Rod, and ſometimes leſs
+<pb n="136" facs="tcp:65509:73"/>than that length, and the lower moſt Links muſt be at leaſt three Hairs, and one at top of four, where of have a Water Nooſe or Loop, to put it to another Link of four hairs, having alſo a Loop or Water Nooſe at its bottom; ſo proteed with Links of five or ſix hairs a piece, till you come to the top-moſt, make the low<g ref="char:EOLhyphen"/>eſt of Cheſnut colour, or Sorrel brown. Then to your Reed or Cane, have a Top neither too ſtiff nor too feeble, but between both, the Cane about three yards and a half long, and the Top about a yard and a half, or near two yards, in one or two pieces, and five or ſix Inches of Whale-bone, ſmooth, round, and pliant.</p>
+               <p>Obſerve to Lead your Line, as is conſiſtent with the Water; in rough ſtreams more than in
+<pb n="137" facs="tcp:65509:73"/>ſmall gentle ſtreams, and leaſt of all in Still Water; then carry the top or point of your Rod in a level with your hand, and ſo you will be the point of your Rod, perceive the Bite at the Ground, then ſtrike ſtrait and gently upwards, and by a little ſlacking your hand before, you will give the Fiſh time the better to take the Bait.</p>
+               <p>Some are of opinion, if you know that a <hi>Trout</hi> bites, to ſtrike at the firſt biting, but this is only allowed in Clear Water for <hi>Salmon-Smel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, Trout,</hi> and <hi>Grayling,</hi> and the Bait is the beſt Red-worms ſcowred, or a Brandling, and Gilt-tail turned Head to Tail, and run croſs wiſe through the middle, under the Wings, and ſo you may do in Muddy Water with
+<pb n="138" facs="tcp:65509:74"/>other Worms, as two Brandlings, two Meadow-worms, <hi>&amp;c.</hi> a <hi>Trout</hi> will ſeize on the Bait when it drags on the ground, either in Clear or Muddy Water, but a large <hi>Grayling</hi> will rather riſe a Foot or more at your Bait from the bottom, than deſcend.</p>
+               <p>If a large <hi>Trout</hi> you Angle for in Muddy Water, then it requires ſome art in baiting your Hook, as ſuppoſe the Bait a Dew-worm, here you muſt thruſt the Hook in towards the Tail, a little above the middle, and out again below the Head, then draw him above the Arm<g ref="char:EOLhyphen"/>ing of the Hook, or Whipping, ſo put the point into the Head of the Worm, till it is very near the place where the point of the Hook firſt came out, and ſo draw back the Worm or that part that was above the
+<pb n="139" facs="tcp:65509:74"/>Shank. This Hook ſhould be indifferent large.</p>
+               <p>To Bait two Worms in Mud<g ref="char:EOLhyphen"/>dy Water for a <hi>Trout, &amp;c.</hi> from eight to ten Inches: Take Mea<g ref="char:EOLhyphen"/>dow-Worms, or Brandlings, or a Brandling and Gilt-tail, and run the point of the Hook in at the Head down the Body, till it paſs the knot, or come to the middle of the Worm; then ſtrip it above the Arming or Whipping, not bruiſing it in any manner with your Fingers, ſo put on the other, by running the Hook in the ſame manner, and let the Head of it juſt cover the point of the Hook, then ſlip the firſt down, till the knots or middle of both Worms meet together; and thus you may do by any other Worms, for other Fiſh, as by
+<pb n="140" facs="tcp:65509:75"/>foregoing directions you find they take them.</p>
+            </div>
+            <div type="part">
+               <head>Directions for Angling with the running Line in Clear Water.</head>
+               <p>PUT a Gilt-tail and ſmall Brandling on your Hook, as before directed, well ſcowred, and here your Hook muſt be much ſmaller than in Muddy Water, two or three of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lowermoſt Links of your Line<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of a ſingle Hair, ſo riſe from two, to three o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> four, of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> grey or duskiſh White, the Line about two yards ſhorte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="141" facs="tcp:65509:75"/>than the Rod, leaded with a ſmall black Plummet.</p>
+               <p>Angle with this in the ſtream always up it, in a River with a light hand, ſtill caſting out the Worm before you; let the Rod be as the former: And thus you may Angle for <hi>Salmon-Smelts, Trout</hi> or <hi>Grayling,</hi> to whoſe proper Baits I refer you in my Treatiſe of Baits in this Book.</p>
+            </div>
+            <div type="part">
+               <pb n="142" facs="tcp:65509:76"/>
+               <head>Directions for the Top-Water Angling with a Worm.</head>
+               <p>YOur Line in this caſe muſt be longer than your Rod, without any Plummet or Float, drawing your Bait down and up the ſtream, in a clear day with a gentle hand, that it may glide as if it were ſwimming, and your Bait here muſt be a Gilt-tail, or Brandling, keep it from the ſhoar, and free from Intanglements of Weeds, Wood, Ruſhes, or other In<g ref="char:EOLhyphen"/>cumbrances that hinder ſport.</p>
+            </div>
+            <div type="part">
+               <pb n="143" facs="tcp:65509:76"/>
+               <head>Farther Directions for Float Angling.</head>
+               <p>HEre your Line muſt be two or three foot longer than your Rod in Rivers, but in Ponds and Pits ſomething ſhort<g ref="char:EOLhyphen"/>er, Angling in Clear Water for <hi>Salmon Smelts, Trout</hi> or <hi>Gray<g ref="char:EOLhyphen"/>ling,</hi> you muſt put but one Hair next the Hook, but in Muddy Water, and for other Fiſh two or three, obſerving the running Line and Rod for the <hi>Trout,</hi> and proportion this to it. Lead it moderately, but ſo that it may keep the Line ſtrait and even, but for <hi>Tench, Carp, Barbel</hi> or <hi>Chub,</hi> your Rod and Line muſt have an addit o<g ref="char:EOLhyphen"/>nal ſtrength in the thickneſs of
+<pb n="144" facs="tcp:65509:77"/>the one, and the number of Hairs in the other, and your Float manageable in the Water, proportioned according to the ſwiftneſs or ſlowneſs of the Water, but with one Worm, the Water being very clear; and obſerve for ſome ſort of Fiſh as <hi>Flounders, Salmon-Smelts, Bream</hi> and <hi>Gudgeon,</hi> your Bait muſt drag on the ground, but for other ſorts, as <hi>Tench, Roach, Bleak, Pike, Ruff,</hi> and <hi>Carp,</hi> at mid-water; for <hi>Grayling</hi> and <hi>Pearch,</hi> at ſix or nine Inches from the bottom. The <hi>Chub</hi> is often taken at Bottom, Mid-water and Top.</p>
+               <p>You may uſe the various ſorts of Baits, Angling with a Vloat, but Ground Baits are moſt fre<g ref="char:EOLhyphen"/>quently uſed, and with ſucceſs.</p>
+            </div>
+            <div type="part">
+               <pb n="145" facs="tcp:65509:77"/>
+               <head>Directions for Drabling.</head>
+               <p>BY this, <hi>Barbe's</hi> of large ſize are taken; to do it com<g ref="char:EOLhyphen"/>pleatly, obſerve theſe Rules.</p>
+               <p>Have a ſtrong Line of ſix yards, which before you faſten it to your Rod, muſt be put through a piece of Lead, that if the Fiſh bite, it may ſlip too and fro, and that the Water may ſomething move it on the ground, Bait it with a pretty large Lob-worm well ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owred, and ſo by its motion, the <hi>Barbel</hi> will be enticed into the danger without ſuſpicion. The beſt places are in running Water near Piles, or under Wooden
+<pb n="146" facs="tcp:65509:78"/>Bridges, ſupported with Oaks doated and ſlimy.</p>
+               <p>This Drabling way I have placed here, by the particular directions of my worthy friend Mr. <hi>Samuel Wright</hi> of <hi>Derby<g ref="char:EOLhyphen"/>ſhire,</hi> an Experienced Angler, of the Crown Society of Jolly Anglers in <hi>Fleetſtreet.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Angling with the Ledger-Bait.</head>
+               <p>THis is uſed for variety of Exerciſe, to give reſt to the Anglers, and ſo differs from others, that are called walking Baits, and this is, when
+<pb n="147" facs="tcp:65509:78"/>the Bait continues to reſt in one fixed and certain place.</p>
+               <p>Here you muſt take off your Float, but let the Lead re<g ref="char:EOLhyphen"/>main, and within half a yard of the top of the Line, wrap a thin plate of Lead, an Inch and half long, and pretty broad, <hi>viz.</hi> about an Inch, ſo faſten your Line to your Rod, caſt in your Bait either into a ſtill ſlow draught, or gentle ſtream, and when it is at the bottom you may ſtick your Rod in the Bank of the River, or hold it in your hand at diſcretion, and by the bending of the Rod, or mo<g ref="char:EOLhyphen"/>tion of the Lead at top, you will perceive when the Fiſh Bites, give her ſome time, and ſtrike contrary to where her head lyes. The <hi>Chub</hi> and <hi>Eel</hi> are ſucceſsfully taken this way.</p>
+            </div>
+            <div type="part">
+               <pb n="148" facs="tcp:65509:79"/>
+               <head>To lay Night Hooks.</head>
+               <p>TO do this effectually, pro<g ref="char:EOLhyphen"/>cure a ſmall Cord, which may be about ſixteen yards long, and to this at equal di<g ref="char:EOLhyphen"/>ſtances, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye five or ſix fine twiſt<g ref="char:EOLhyphen"/>ed. Flax or Silk Lines, about eighteen Inches each, of the thickneſs of your Trowling Line, faſten them ſo that they may be eaſily removed, and put on again, whip to the ends of each of them a pretty ſtrong hook, Bait with a Loach, Mi<g ref="char:EOLhyphen"/>now or Bull-head, the Fins and Gills cut off; or theſe being wanting, the Seven Eyes, Eel-brood, ſmall Roach, Gudgeon, the Pith of an Ox or Cows Back Bone, <hi>&amp;c.</hi> will
+<pb n="149" facs="tcp:65509:79"/>ſerve for the Fiſh, put the point of the Hook in at the Tail, and out at the mouth, ſo that the Fiſhes Head may have a reſting in the Hooks bent, and that the point may not be diſcovered, cover it with a Worm, and caſting the Cord by a weight, over the River, Stream or Pond, faſten both ends to ſtakes on either ſide, and be there Early in the Morning, and expect <hi>Chub,</hi> large <hi>Eels, Trout</hi> or <hi>Pike,</hi> but for a <hi>Pike</hi> keep the Bait with a Float, about a foot or ſomething more from the bottom.</p>
+               <p>For this to gather the Fiſh, you may Bait the ground with Blood and Grains, or Sweet, made up in Sweet Earth, taken from under the green Soard, or Paſts, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="150" facs="tcp:65509:80"/>
+               <head>Choice Receipts, or Rare or Secrets, never before made Publick.</head>
+               <p>TAke Oyl of Amber, Roſe<g ref="char:EOLhyphen"/>mary and Myrrh, an equal quantity, infuſe in them any Worms, or mingle Paſte with them, and the Fiſh if near, will haſten to the Bait ſo dipped, and then not have power to go away, till ſhe either Nibbles off the Bait, or is Taken.</p>
+               <p>Oyl of Water Lillies, and the Juice of Mulberries, is ex<g ref="char:EOLhyphen"/>cellent to make up Paſte with, eſpecially with a few drops of Oyl of Peny-royal in it, and the Fat of a Hedg-hog or Ur<g ref="char:EOLhyphen"/>chin.</p>
+               <pb n="151" facs="tcp:65509:80"/>
+               <p>Ground-bait for <hi>Carp,</hi> with unpickled Samphire bruiſed, and made into Balls, with Wal<g ref="char:EOLhyphen"/>nut Oil. This likewiſe allures <hi>Tench</hi> and <hi>Bream.</hi>
+               </p>
+               <p>Over-night, mix Bean Flow<g ref="char:EOLhyphen"/>er with a little Honey, wet it with Rectified Spirits of Wine, and a little Oil of Turpentine, make it up into little Pellets, and ſuch Fiſh as Nibble it, when thrown in, will be ſtupi<g ref="char:EOLhyphen"/>fied, ſo that in the Morning, coming to themſelves a little, they will bite very eagerly, as being after their drunken fit exceeding hungry. This like<g ref="char:EOLhyphen"/>wiſe is a ſure detainer of them all night in Summer, ſo that they will not wander from the place. <hi>Nux Vomica</hi> ſcraped in<g ref="char:EOLhyphen"/>to Paſte, makes them Drunk, ſo that if the Water be ſhallow, you may go in and take them,
+<pb n="152" facs="tcp:65509:81"/>when they riſe and turn up their Bellies as if expiring, though in a little time they will come to themſelves again, if the Wa<g ref="char:EOLhyphen"/>ter be deep you may uſe a Landing Net.</p>
+               <p>The Fat of Barnacles or Sea-Gulls is extreamly coveted by Fiſh, if mixed with the Juice of Eringoes, or Sea Holly. The Craw of a Turtle Dove well ſcowred, is taken very ea<g ref="char:EOLhyphen"/>gerly by the <hi>Pike.</hi>
+               </p>
+               <p>The Fat of a Water Rat, takes <hi>Pearch</hi> if the Bait be rubbed with it, as that of a Mole does the <hi>Pike.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="153" facs="tcp:65509:81"/>
+               <head>Some particular obſerva<g ref="char:EOLhyphen"/>tions on <hi>Gudgeon</hi> An<g ref="char:EOLhyphen"/>gling.</head>
+               <p>THE <hi>Gudgeon</hi> though not o<g ref="char:EOLhyphen"/>ver large, is approved a<g ref="char:EOLhyphen"/>mong other Fiſh as a Dainty, being very wholeſome Food. This Fiſh Spawns twice or thrice in the year, he delights in ſharp Streams, with Gravel<g ref="char:EOLhyphen"/>ly or Sandy bottoms, and ſhews the young Angler extraordina<g ref="char:EOLhyphen"/>ry good ſport, who not being well skilled in chuſing, or not well knowing how to come by other Baits, may take him with a ſmall Red-worm on the ground, or very near it, and rarely by reaſon of the tough<g ref="char:EOLhyphen"/>neſs of his Mouth, is he loſt when ſtruck. In the heat of Summer they make to the Shal<g ref="char:EOLhyphen"/>lows
+<pb n="154" facs="tcp:65509:82"/>in Rivers, but when the Weeds in <hi>Autumn,</hi> grow of a bad taſte, or rot, and Cold Weather comes on, then they get together in Deep places; and here it is propereſt to Fiſh for them at the ground, or a little above it; if you fiſh with a Cork or Float, but it may be done with a running Line on the ground, without a Float: As for particular Baits, I have already diſcourſed of them, and among others thoſe relating to the <hi>Gudgeon.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A ſpecial Winter Bait to get, and preſerve.</head>
+               <p>WHen Plowing begins in <hi>Autumn,</hi> before any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roſts come that are forcible, to make entrance into the
+<pb n="155" facs="tcp:65509:82"/>Earth; obſerve where the Ploughs are going, if there be ſtore of Crows lighted on the Ground, eſpecially in that which is Heathy, Sandy, or Greenſoard, follow, and you will find a white Worm, big<g ref="char:EOLhyphen"/>ger than a Gentle, having a red Head, which is held to be bred of the Spawn or Egg of a Beetle, left in thoſe holes ſhe digs in the ground under Horſe or Cow dung; which is <hi>March</hi> or <hi>April,</hi> turns to a Beetle again: You may put about two quarts of theſe, into half a Buſhel of the ſame Mould, when you gather them, put them in a Tub or other Veſſel, where the Froſt or Wind may not come to kill them; and by this means, when moſt other Baits are out, you may be pro<g ref="char:EOLhyphen"/>vided all the ſeaſonable times in Winter, and early in Spring.
+<pb n="156" facs="tcp:65509:83"/>They take in thoſe ſeaſons, <hi>Bream, Carp, Roach, Dace</hi> and <hi>Chub.</hi>
+               </p>
+               <p>Gentles may be kept in Win<g ref="char:EOLhyphen"/>ter, in Bran, Moſs and Scower<g ref="char:EOLhyphen"/>ing Earth, lightly over ſome putrefaction, in which at the firſt laying them in the ground, where the Froſt cannot come at them, you perceive they be<g ref="char:EOLhyphen"/>gin to live.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <g ref="char:V">Ʋ</g>nſeaſonable times to Angle in.</head>
+               <p>HAving ſpoke much of pro<g ref="char:EOLhyphen"/>per times to accommo<g ref="char:EOLhyphen"/>date the Angler, I ſhall now ſpeak ſomewhat more of un<g ref="char:EOLhyphen"/>ſeaſonable ones, that thoſe who are ignorant in this Art, as to the Niceties of it, may not loſe their labour.</p>
+               <pb n="157" facs="tcp:65509:83"/>
+               <p>The two extreams of Wea<g ref="char:EOLhyphen"/>ther are not proper, <hi>viz.</hi> (1.) When great droughts have parched the Earth, ſo that the Rivers carry but low Currents, when the Weather is Exceſſive hot, in the Heat of the day, unleſs Clouds cover all, and Winds gently breath. (2.) In Froſty or Snowy Wea<g ref="char:EOLhyphen"/>ther, or unhealthy Weather, for two reaſons, <hi>viz.</hi> becauſe you will little damage the Fiſh, but greatly injure your ſelf.</p>
+               <p>In the Morning, either in the Spring or advancing of the ſea<g ref="char:EOLhyphen"/>ſon, if a Hoar Froſt happen, the Fiſh will be backward in their biting that day, and little ſport can be expected, for they will not freely riſe, except in the Evening, and ſoon after they have ſpawned they will not bite to the purpoſe, till with Graſs and Weeds they have
+<pb n="158" facs="tcp:65509:84"/>well purged and ſcowered themſelves, ſo that they may by that means recover their Strength and Appetite.</p>
+               <p>It is not proper to Fiſh when the North or Eaſt Winds be ve<g ref="char:EOLhyphen"/>ry ſharp.</p>
+               <p>In Brooks that are ſmall and clear, where the Water is kept up by Mills or Dams, it is not good Angling, for there eſpe<g ref="char:EOLhyphen"/>cially the <hi>Trout</hi> keeps her hole, and others bite faintly.</p>
+            </div>
+            <div type="part">
+               <head>Some other uſeful obſerva<g ref="char:EOLhyphen"/>tions and directions.</head>
+               <p n="1">1. IF you are doubtful what Bait will be taken, look in the firſt Fiſhes Stomach, and ſuch Flies, Worms, <hi>&amp;c.</hi> as you find there, that kind at that time delights in.</p>
+               <p>Be ſure always to keep your ſhadow off the Water, and
+<pb n="159" facs="tcp:65509:84"/>therefore let the Sun be in your Face, or on one ſide of you when you Angle, keeping out of ſight, and making no noiſe; and when you are bent for <hi>Trout,</hi> you need make but three or four Eſſays with the ground Bait or Fly, for if it comes not then to Bite or offer, either there is not any there, or they keep cloſe in their holes.</p>
+               <p>If you Fiſh for <hi>Carp,</hi> cut no Weeds in the River, nor on the ſides, to make you a con<g ref="char:EOLhyphen"/>venient ſtanding, for then they will perceive they are laid wait for, and forſake that haunt, not returning in a conſiderable time.</p>
+            </div>
+            <div type="part">
+               <head>A curious Paſte with Oyls to take Fiſh.</head>
+               <p>TAke the flower of Lupins, three ounces, the Fat of a
+<pb n="160" facs="tcp:65509:85"/>Rabbits Kidney an ounce, the Juice of Horſe Radiſh a quarter of an ounce, Oyl of Turpentine three drams, mix theſe toge<g ref="char:EOLhyphen"/>ther with a ſtiff hand, and make them up into a Paſte, with a little Rabbits Wool felted in with it to ſtrengthen it on the Hook, and it will take to ad<g ref="char:EOLhyphen"/>miration <hi>Trout, Tench, Chub</hi> and <hi>Roach,</hi> and is an excellent ground bait for moſt ſort of River or Pond Fiſh, and proportionable to direction, mix a greater quantity, adding a little Honey.</p>
+               <p>And thus have I given you in a ſmall Book, the whole Art of Angling, for by way of di<g ref="char:EOLhyphen"/>rection, there needs no more; all that remains now, is to put it in practice, without which, what<g ref="char:EOLhyphen"/>ever can be ſaid on the Subject, ſignifies little.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:65509:85"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
